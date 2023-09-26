@@ -1,0 +1,5 @@
+[default.extend-words]
+# Don't correct the name "Vas"
+Vas = "Vas"
+# protocoL triggers error
+protoco = "protoco"

@@ -1,0 +1,20 @@
+- label: Program
+  items:
+    - name: Full Program
+      link: program/
+    - name: Sessions
+      link: program/sessions/
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Notebooks
+      link: program/notebooks/
+    - name: Papers
+      link: program/papers/
+    - name: Posters
+      link: program/posters/
+    - name: Talks
+      link: program/talks/
+    - name: Tutorials
+      link: program/tutorials/
+    - name: Workshops
+      link: program/workshops/

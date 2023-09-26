@@ -1,0 +1,15 @@
+- name: Participate
+  link: participate/
+- name: Program
+  link: program/
+- name: Attend
+  link: attend/
+- name: Organization
+  link: organization/
+- name: Sponsor
+  link: sponsor/
+- name: About
+  link: about/
+  dropdown:
+    - name: Code of Conduct
+      link: about/code-of-conduct/

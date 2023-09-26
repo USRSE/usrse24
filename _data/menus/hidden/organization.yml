@@ -1,0 +1,20 @@
+- label: Organization
+  items:
+    - name: Overview
+      link: organization/
+    - name: General Chairs
+      link: organization/general/
+    - name: Diversity
+      link: organization/diversity/
+    - name: Outreach
+      link: organization/outreach/
+    - name: Technical Program
+      link: organization/technical/
+    - name: Publication
+      link: organization/publication/
+    - name: Special Issue Editors
+      link: organization/special-issue/
+    - name: Sponsorship
+      link: organization/sponsorship/
+    - name: Student
+      link: organization/student/

@@ -1,0 +1,8 @@
+- label: Participate
+  items:
+    - name: Call for Participation
+      link: participate/
+    - name: Templates
+      link: participate/templates/
+    - name: Notebooks
+      link: participate/notebooks/
