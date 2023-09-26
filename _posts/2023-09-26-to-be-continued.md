@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To be continuted...
+title: To be continued...
 date: 2023-09-26
 tags:
 ---
