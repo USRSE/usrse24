@@ -1,6 +1,6 @@
 # The US-RSE Association Conference 2024 (US-RSE'24)
 
-This repo is website landing page for the US-RSE Association Conference 2024
+This repo is website landing page for the [US-RSE Association Conference 2024](https://us-rse.org/usrse24/)
 in Albuquerque, NM.
 
 ## Previewing the Site Locally
