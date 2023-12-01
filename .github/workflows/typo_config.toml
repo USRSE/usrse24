@@ -1,5 +1,12 @@
-[default.extend-words]
-# Don't correct the name "Vas"
-Vas = "Vas"
-# protocoL triggers error
-protoco = "protoco"
+[files]
+extend-exclude = [
+    ".git/",
+    ".github/workflows/typo_config.toml",
+    "assets/js/*.min.*",
+]
+ignore-hidden = false
+[default]
+extend-ignore-re = [
+    "Brain tailoRed stImulation protocoL",
+    "Vas Vasiliadis",
+]
