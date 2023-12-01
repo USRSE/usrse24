@@ -9,5 +9,5 @@ set_last_modified: true
 
 ## Chairs
 
-- Charles Ferenbaugh, Los Alamos National Laboratory
-- Torin White, University of Illinois at Chicago
+- Patrick Diehl, Louisiana State University
+- Diego Menéndez, Penn State University

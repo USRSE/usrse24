@@ -9,6 +9,5 @@ set_last_modified: true
 
 ## Chairs
 
-- Angela Herring, Los Alamos National Laboratory
+- Abbey Roelofs, University of Michigan
 - Mahmood Shad, Harvard Research Computing, Harvard University
-- Chris Hill, MIT

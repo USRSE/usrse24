@@ -9,6 +9,5 @@ set_last_modified: true
 
 ## Chairs
 
-- Ludovico Bianchi, Lawrence Berkeley National Laboratory
+- Cordero Core, University of Washington eScience Institute
 - Tab Memmott, Oregon Health and Science University
-- Lance Parsons, Princeton University
