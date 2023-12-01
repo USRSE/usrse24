@@ -1,11 +1,11 @@
 # The US-RSE Association Conference 2024 (US-RSE'24)
 
-This repo is website landing page for the US-RSE Association Conference 2024,
-location TBA.
+This repo is website landing page for the [US-RSE Association Conference 2024](https://us-rse.org/usrse24/)
+in Albuquerque, NM.
 
 ## Previewing the Site Locally
 
-To preview the site locally, you'll need to [install jekyll](https://jekyllrb.com/docs/installation/)
+To preview the site locally, you'll need to [install jekyll](https://jekyllrb.com/docs/installation/).
 Then go to the root of the directory and run (only needed once):
 
 ```bash
@@ -28,7 +28,9 @@ then `bundle exec jekyll serve`.
 
 ## Container-based development
 
-Build and run a Docker container to preview the site locally and support a local development workflow. If you do not already have Docker installed, please visit https://docs.docker.com/get-docker/ and follow the links to get started with Docker on your operating system.
+Build and run a Docker container to preview the site locally and support a local development workflow.
+If you do not already have Docker installed, please visit https://docs.docker.com/get-docker/ and
+follow the links to get started with Docker on your operating system.
 
 Build the container image:
 
@@ -60,5 +62,6 @@ docker run --rm -it -p 4000:4000 \
     bundle exec jekyll serve --host=0.0.0.0 --watch --drafts
 ```
 
-Change a source file, such as `index.html` for example, and save the changes. You will see Jekyll automatically regenerate the site, after which you can reload the page in your browser to see the rendered changes.
+Change a source file, such as `index.html` for example, and save the changes. You will see Jekyll automatically regenerate the site,
+after which you can reload the page in your browser to see the rendered changes.
 
