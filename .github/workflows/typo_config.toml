@@ -10,6 +10,3 @@ extend-ignore-re = [
     "Brain tailoRed stImulation protocoL",
     "Vas Vasiliadis",
 ]
-[default.extend-words]
-Vas = "Vas"
-protoco = "protoco"
