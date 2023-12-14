@@ -3,7 +3,9 @@
 - name: Program
   link: program/
 - name: Attend
-  link: attend/
+  dropdown:
+    - name: Travel
+      link: attend/travel/
 - name: Organization
   link: organization/
   dropdown:
