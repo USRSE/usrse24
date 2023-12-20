@@ -10,4 +10,4 @@ set_last_modified: true
 ## Chairs
 
 - Abbey Roelofs, University of Michigan
-- Mahmood Shad, Harvard Research Computing, Harvard University
+- Max Shad, University Research Computing & Kempner Institute, Harvard University
