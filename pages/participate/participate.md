@@ -30,7 +30,7 @@ Accepted abstracts will be placed on the website ahead of the conference.
 ## Important Dates
 
 - **Submissions open**: Monday, February 12 for all but notebooks. Notebooks to open Monday, February 26.
-- **BoFs, Workshops, and Tutorials**: Due March 22. Notifications April 26.
+- **BoFs, Workshops, and Tutorials**: Due Friday, March 22. Notifications Friday, April 26.
 - **Papers and Notebooks**: Due May 20. Notifications June 27.
 - **Posters and Talks**: Due June 3. Notifications July 3.
 - **Camera-ready submissions (Notebooks, Papers)**: August 9
