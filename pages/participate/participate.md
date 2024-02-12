@@ -33,7 +33,7 @@ Accepted abstracts will be placed on the website ahead of the conference.
 - **BoFs, Workshops, and Tutorials**: Due Friday, March 22. Notifications Friday, April 26.
 - **Papers and Notebooks**: Due Monday, May 20. Notifications Friday, June 28.
 - **Posters and Talks**: Due Monday, June 3. Notifications Wednesday, July 3.
-- **Camera-ready submissions (Notebooks, Papers)**: August 9
+- **Camera-ready submissions (Notebooks, Papers)**: Friday, August 9
 
 ## Birds of a Feather (BoFs)
 
