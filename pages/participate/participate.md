@@ -45,7 +45,7 @@ Workshops will take place in person at the conference. They will be 180 minutes,
 
 ## Tutorials
 
-Tutorials will take place ahead of the conference in a virtual format, and be recorded, from September 30th to October 11th. Infrastructure to register participants and allow the hosts to run the tutorial via Zoom will be provided. Tutorials may be either 90 minutes or 2 90 minute sessions with a 30 minute break in the middle. Please note that you ***MAY*** submit similar proposals for both a tutorial and a Learning Topic workshop if you would like to deliver the same content in person at the conference. Submission template [here](https://docs.google.com/document/d/1RljR4M2kEBZx36JmSNLrw0iL7P-cx3aoosYdnHJR8t4/edit?usp=sharing).
+Tutorials will take place ahead of the conference in a virtual format (to be recorded) from September 30th to October 11th. Infrastructure to register participants and allow the hosts to run the tutorial via Zoom will be provided. Tutorials may be either 90 minutes or two 90 minute sessions with a 30 minute break in the middle. Please note that you ***MAY*** submit similar proposals for both a tutorial and a Learning Topic workshop if you would like to deliver the same content in person at the conference. Submission template [here](https://docs.google.com/document/d/1RljR4M2kEBZx36JmSNLrw0iL7P-cx3aoosYdnHJR8t4/edit?usp=sharing).
 
 ## Papers
 
