@@ -37,7 +37,7 @@ Accepted abstracts will be placed on the website ahead of the conference.
 
 ## Birds of a Feather (BoFs)
 
-Birds of a Feather sessions are expected to be informal, and ideally will include the audience’s participation. Sessions will last 90 minutes and take place in rooms that will accommodate approximately 100 people. Organizers may choose to submit with all presenters determined at the time of submission, or include a plan for finding BoF presenters upon acceptance. Submission template [here](https://docs.google.com/document/d/1W86USaI0euZOuwPJoeZfZaX-qxG_OjRTM3brHNxNIvM/edit?usp=sharing).
+Birds of a Feather sessions are expected to be informal, and ideally will include the audience’s participation. Sessions will last 90 minutes and take place in rooms that will accommodate approximately 100 people. Organizers may choose to submit with all presenters determined at the time of submission or include a plan for finding BoF presenters upon acceptance. Submission template [here](https://docs.google.com/document/d/1W86USaI0euZOuwPJoeZfZaX-qxG_OjRTM3brHNxNIvM/edit?usp=sharing).
 
 ## Workshops
 
