@@ -17,4 +17,4 @@ set_last_modified: true
 
 ## Conference
 
-- **Main Conference**: October 15-17, 2023, Albuquerque, NM
+- **Main Conference**: October 15-17, 2024, Albuquerque, NM
