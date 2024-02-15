@@ -1,5 +1,8 @@
 - name: Participate
   link: participate/
+  dropdown:
+    - name: Call for Participation
+      link: participate/
 - name: Program
   link: program/
 - name: Attend
