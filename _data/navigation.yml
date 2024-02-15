@@ -35,5 +35,7 @@
 - name: About
   link: about/
   dropdown:
+    - name: Important Dates
+      link: about/dates/
     - name: Code of Conduct
       link: about/code-of-conduct/
