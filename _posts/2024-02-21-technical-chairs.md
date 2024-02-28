@@ -1,20 +1,11 @@
 ---
-layout: page
-title: Technical Program Committee
-description: 
-menubar: organization
-permalink: organization/technical/
-set_last_modified: true
+layout: post
+title: "Technical Subcommittee Co-Chairs Announced!"
+date: 2024-02-21
+tags:
 ---
 
-## Chairs
-
-- **Daniel S. Katz**
-  - National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
-- **Joshua Teves**
-  - Sandia National Laboratories
-
-## Subcommittee Co-Chairs
+> Congratulations to our wonderful US-RSE 2024 Technical subcommittee co-chairs! Please welcome them and thank them for stepping up to help us put on a great program for this year’s conference!
 
 ### Notebooks
 
