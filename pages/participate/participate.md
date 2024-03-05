@@ -37,7 +37,7 @@ in Zenodo.
 
 Accepted abstracts will be placed on the website ahead of the conference.
 
-**Questions?** Contact the organizers: [usrse2024@easychair.org](mailto:usrse2024@easychair.org).
+**Questions?** Contact the Technical Program organizers: [usrse2024@easychair.org](mailto:usrse2024@easychair.org).
 
 ## Important Dates
 
