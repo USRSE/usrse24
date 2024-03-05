@@ -25,7 +25,19 @@ include, but are not limited to:
 - Training and workforce development
 - Maturing and expanding the RSE profession
 
+**Submission Website**: [EasyChair](https://easychair.org/conferences/?conf=usrse2024);
+please see submission templates below for each type of submission.
+
+**Review and Publication**: All contributions will be subject to non-anonymous peer
+review for quality, relevance, and novelty, which will determine acceptance.
+All submissions will be kept confidential prior to publication in
+the proceedings. Instructions for camera-ready versions will be sent to authors
+of accepted submissions. All submission types will be published as open access
+in Zenodo.
+
 Accepted abstracts will be placed on the website ahead of the conference.
+
+**Questions?** Contact the Technical Program organizers: [usrse2024@easychair.org](mailto:usrse2024@easychair.org).
 
 ## Important Dates
 
