@@ -25,6 +25,8 @@ include, but are not limited to:
 - Training and workforce development
 - Maturing and expanding the RSE profession
 
+**Submission Website**: [EasyChair](https://easychair.org/conferences/?conf=usrse2024)
+
 Accepted abstracts will be placed on the website ahead of the conference.
 
 ## Important Dates
