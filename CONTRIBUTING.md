@@ -37,7 +37,7 @@ requests to merge changes back into the main repository.
 
 ### Forking
 
-To create a fork, go to the [main repository](https://github.com/USRSE/usrse23)
+To create a fork, go to the [main repository](https://github.com/USRSE/usrse24)
 and click the `Fork` button in the top-right. You can choose under what username
 or organization the fork is made; we recommend your personal account.
 
@@ -60,7 +60,7 @@ for the various ways to keep your fork in sync.
 
 ## Creating Issues
 
-[Create issues in GitHub](https://github.com/USRSE/usrse23/issues)
+[Create issues in GitHub](https://github.com/USRSE/usrse24/issues)
 for any work that needs to be done. This can include, but is not limited to:
 
 - Bugs
