@@ -29,8 +29,8 @@ include, but are not limited to:
 please see submission templates below for each type of submission.
 
 **Review and Publication**: All contributions will be subject to non-anonymous peer
-review for quality, relevance, and novelty, which will determine acceptance and the form of
-presentation. All submissions will be kept confidential prior to publication in
+review for quality, relevance, and novelty, which will determine acceptance.
+All submissions will be kept confidential prior to publication in
 the proceedings. Instructions for camera-ready versions will be sent to authors
 of accepted submissions. All submission types will be published as open access
 in Zenodo.
