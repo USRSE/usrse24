@@ -65,7 +65,7 @@ Papers will consist of submissions up to 10 pages in length, including figures, 
 
 ## Notebooks
 
-To account for the broad variety of use cases for notebooks, we are accepting submissions in three categories, which will be described in detail on a Notebook Submissions Page. Accepted notebooks will be given the opportunity for a 12-minute oral presentation plus 3 minutes for questions. Submission template in progress.
+There are many reasons RSEs might want to publish a computational notebook. They might aim to showcase tools through engaging narratives or release interactive dashboards for exploring datasets related to RSE careers. To account for the broad variety of use cases for notebooks, we officially support submissions in R (i.e. Rmd, Qmd); Python (i.e. ipynb, Qmd); or other languages [supported by Quarto](https://quarto.org/docs/faq/#what-programming-languages-are-supported-in-quarto), but we can also accept any language supported by  and [its backend engines](https://quarto.org/docs/computations/execution-options.html#engine-binding) which include [Jupyter kernels](https://docs.jupyter.org/en/latest/projects/kernels.html) and the [Knitr engine](https://bookdown.org/yihui/rmarkdown-cookbook/other-languages.html). Examples of notebook submissions may include, but not limited to, the following: showcasing a tool, workflow, or dataset, or publishing a notebook-based research/data paper, lesson, or other instructional document. Accepted notebooks will be given the opportunity for a 12-minute oral presentation plus 3 minutes for questions. [Notebook submission template here](https://docs.google.com/document/d/16pGPdGWpyOr79pgBxEImAHioPgyy-jJwiIklJUJWE_4/edit?usp=sharing).
 
 ## Talks
 
