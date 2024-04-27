@@ -36,3 +36,24 @@ US-RSE'24.
 ### Other Nearby Hotels
 
 - Hotel Andaluz Albuquerque, Curio Collection - 330 Tijeras Ave NW, Albuquerque, NM 87102 (0.1 miles away)
+
+## Things To Do
+
+- Old Town Walking, History & Ghost Tours
+  - <https://www.cabq.gov/artsculture/albuquerque-museum/events/old-town-walking-tours>
+  - <https://www.abqtours.fun/>
+  - <https://usghostadventures.com/albuquerque-ghost-tour/>
+- [Balloon Fiesta](https://balloonfiesta.com/)
+- [Hot Air Balloon Rides](https://www.visitalbuquerque.org/things-to-do/air/ballooning/)
+- [ABQ Trolley Co (Old Town)](https://www.visitalbuquerque.org/listing/abq-trolley-co/4185/)
+- [ABQ BioPark](https://www.cabq.gov/artsculture/biopark), which includes the Botanical Gardens, Zoo, Aquarium, and fishing lakes at Tingley Beach
+- [Albuquerque Museum](https://www.visitalbuquerque.org/listing/albuquerque-museum/2497/)
+- [Sandia Peak Tramway](https://sandiapeak.com/)
+- [New Mexico Museum of Natural History and Science](https://www.nmnaturalhistory.org/)
+- [Amazing ABQ Scavenger Hunt Adventure](https://www.visitalbuquerque.org/coupon/25%25-off-amazing-scavenger-hunt-adventure/2636/)
+- [Albuquerque Culture](https://www.visitalbuquerque.org/about-abq/culture-heritage/)
+- [Indian Pueblo Cultural Center](https://www.visitalbuquerque.org/listing/indian-pueblo-cultural-center/1086/)
+- [Tinkertown](https://tinkertown.com/)
+- [Paseo del Bosque Trail](https://www.cabq.gov/parksandrecreation/open-space/lands/paseo-del-bosque-trail)
+- [Breweries](https://www.newmexico.org/things-to-do/cuisine/breweries-tap-rooms/)
+- [Railrunner to Santa Fe](https://www.visitalbuquerque.org/things-to-do/tours-sightseeing/self-guided/rail-runner/)
