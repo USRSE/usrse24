@@ -63,7 +63,7 @@ set_last_modified: true
 ### Papers
 
 - **Fang Liu**
-  - University of Notre Dame
+  - Georgia Institute of Technology
 - **John Tencer**
   - Sandia National Laboratories
 - **Sandeep Puthanveetil Satheesan**
