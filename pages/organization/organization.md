@@ -35,7 +35,7 @@ set_last_modified: true
 ### Sponsorship Chairs
 
 - Abbey Roelofs, University of Michigan
-- Max Shad, University Research Computing & Kempner Institute, Harvard University
+- Max Shad, Kempner Institute, Harvard University
 
 ### Student Chairs
 
