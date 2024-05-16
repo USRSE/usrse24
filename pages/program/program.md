@@ -9,4 +9,5 @@ set_last_modified: true
 
 ## Accepted Program
 
+- [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
 - [Workshops]({{ site.baseurl }}/program/workshops/)
