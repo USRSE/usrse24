@@ -7,4 +7,6 @@ permalink: program/
 set_last_modified: true
 ---
 
-More information to come...
+## Accepted Program
+
+- [Workshops]({{ site.baseurl }}/program/workshops/)
