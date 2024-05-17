@@ -1,0 +1,8 @@
+- label: Program
+  items:
+    - name: Full Program
+      link: program/
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Workshops
+      link: program/workshops/

@@ -4,7 +4,13 @@
     - name: Call for Participation
       link: participate/
 - name: Program
-  link: program/
+  dropdown:
+    - name: Full Program
+      link: program/
+    - name: Birds of a Feather
+      link: program/bofs/
+    - name: Workshops
+      link: program/workshops/
 - name: Attend
   dropdown:
     - name: Travel

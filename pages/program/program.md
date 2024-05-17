@@ -7,4 +7,7 @@ permalink: program/
 set_last_modified: true
 ---
 
-More information to come...
+## Accepted Submissions
+
+- [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
+- [Workshops]({{ site.baseurl }}/program/workshops/)
