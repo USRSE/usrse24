@@ -11,7 +11,7 @@ set_last_modified: true
 
 - **Submissions open**: Monday, February 12 for all but notebooks. Notebooks to open Monday, February 26.
 - **BoFs, Workshops, and Tutorials**: Due Friday, April 5. BoF and Workshop notifications Friday, May 10. Tutorial notifications Tuesday, May 21.
-- **Papers and Notebooks**: Due Monday, May 20. Notifications Friday, June 28.
+- **Papers and Notebooks**: Due Monday, June 3. Notifications Wednesday, July 3.
 - **Posters and Talks**: Due Monday, June 3. Notifications Wednesday, July 3.
 - **Camera-ready submissions (Notebooks, Papers)**: Friday, August 9
 
