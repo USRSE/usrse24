@@ -37,6 +37,17 @@ US-RSE'24.
 
 - Hotel Andaluz Albuquerque, Curio Collection - 330 Tijeras Ave NW, Albuquerque, NM 87102 (0.1 miles away)
 
+## Travel Grants
+
+The US-RSE ’24 conference will again be offering travel grants.
+
+- Travel grants can be used for transportation, registration, and/or accommodations.
+- Meals will be provided at the conference on conference days.
+- Priority will be given...
+  - to those having an accepted submission at the US-RSE’24 conference.
+  - to enhance the diversity of participants.
+- The form to apply for travel grants will be available by early August.
+
 ## Things To Do
 
 - Old Town Walking, History & Ghost Tours
