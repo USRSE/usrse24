@@ -4,6 +4,9 @@ _site
 .vagrant
 Gemfile.lock
 
+# VS Code
+.vscode/*
+
 # general
 .DS_Store
 Thumbs.db
