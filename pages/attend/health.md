@@ -19,9 +19,9 @@ At a minimum, a mask requirement will be implemented if either situation occurs:
 - the community level reaches “High” in New Mexico anytime within 15 days prior to the conference
 
 If a mask requirement is put into effect, the following guidelines will be implemented.
-Once in effect, the requirement will not be removed, regardless of whether community
-levels return to low. While in official conference events or locations, masks must
-be worn at all times, excluding those who have a documented medical reason and
+Once in effect, **the requirement will not be removed, regardless of whether community
+levels return to low**. While in official conference events or locations, **masks must
+be worn at all times**, excluding those who have a documented medical reason and
 during active eating and drinking. Repeat offenders may be asked to leave the
 conference area. The conference will provide masks for those who do not have
 them, and COVID tests will be available.
