@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Attend
+title: COVID Policy
 description: 
 menubar: attend
-permalink: attend/
+permalink: attend/health/
 set_last_modified: true
 ---
-
-## COVID Policy
 
 The conference organizers reserve the right to require attendees to wear masks
 for the safety and health of all conference attendees. The Centers for Disease
@@ -35,8 +33,3 @@ are already in Albuquerque.
 
 To report a medical exception or for any other questions,
 please [email the organizers](mailto:usrse24-conference@us-rse.org).
-
-## Travel
-
-See the [Travel page]({{ site.baseurl }}/attend/travel) for more details.
-
