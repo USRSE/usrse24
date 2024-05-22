@@ -39,7 +39,7 @@ US-RSE'24.
 
 ## Travel Grants
 
-The US-RSE ’24 conference will again be offering travel grants via an application process.
+The US-RSE’24 conference will again be offering travel grants via an application process.
 
 - Travel grants can be used for transportation, registration, and/or accommodations.
 - Meals will be provided at the conference on conference days.
