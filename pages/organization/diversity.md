@@ -10,4 +10,4 @@ set_last_modified: true
 ## Chairs
 
 - Cordero Core, University of Washington eScience Institute
-- Tab Memmott, Oregon Health and Science University
+- Suzanne Prentice, Oak Ridge National Laboratory
