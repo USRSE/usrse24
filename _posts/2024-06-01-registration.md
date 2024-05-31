@@ -5,7 +5,7 @@ date: 2024-05-31
 tags:
 ---
 
-Registration will open on **Saturday, June 1, 2024**.
+Registration opens on **Saturday, June 1, 2024**.
 
 <a type="button" style="margin:auto 10px; -webkit-appearance: none;" class="btn btn-light btn-lg" href="https://www.eventbrite.com/e/us-rse-conference-2024-yesterday-today-tomorrow-tickets-890452335907" target="_blank">
     Register Now
