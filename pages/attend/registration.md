@@ -14,8 +14,9 @@ set_last_modified: true
 | - | ------------ | ------- |
 | Early Bird | $400 ($419.95 with fees) | $100 ($105.99 with fees) |
 | Regular | $450 ($471.45 with fees) | $150 (TBD with fees) |
-| Additional Poster Session Ticket+ | $50 ($53.49 with fees) | - |
+| Additional Conference Dinner Ticket+ | $50 ($53.49 with fees) | - |
 
++: _This is an add-on to a full registration (e.g., if you'd like to bring someone additional to the conference dinner)._
 
 Early bird registration ends on **September 1, 2024**.
 
