@@ -36,6 +36,10 @@ are already in Albuquerque.
 To report a medical exception or for any other questions,
 please [email the organizers](mailto:usrse24-conference@us-rse.org).
 
+## Register
+
+See the [Registration page]({{ site.baseurl }}/attend/register) for more details.
+
 ## Travel
 
 See the [Travel page]({{ site.baseurl }}/attend/travel) for more details.

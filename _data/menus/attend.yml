@@ -1,5 +1,7 @@
 - label: Attend
   items:
+    - name: Register
+      link: attend/register/
     - name: Travel
       link: attend/travel/
     - name: COVID Policy
