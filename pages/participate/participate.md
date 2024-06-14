@@ -44,7 +44,7 @@ Accepted abstracts will be placed on the website ahead of the conference.
 - **Submissions open**: Monday, February 12 for all but notebooks. Notebooks to open Monday, February 26.
 - **BoFs, Workshops, and Tutorials**: Due Friday, April 5. BoF and Workshop notifications Friday, May 10. Tutorial notifications Tuesday, May 21.
 - **Papers and Notebooks**: Due Monday, June 3. Notifications Wednesday, July 3.
-- **Posters and Talks**: Due Monday, June 17. Notifications Wednesday, July 17.
+- **Posters and Talks**: Due Monday, June 17 AoE. Notifications Wednesday, July 17.
 - **Camera-ready submissions (Notebooks, Papers)**: Friday, August 9
 
 ## Birds of a Feather (BoFs)
@@ -69,8 +69,8 @@ There are many reasons RSEs might want to publish a computational notebook. They
 
 ## Talks
 
-Talks will take place across the entire conference. They will be oral presentations lasting 12 minutes with 3 minutes for questions, organized into 90-minute sessions. Submission template [here](https://docs.google.com/document/d/1iN9gDRa_u2kLFFl5H03BPYu8nQVjWomI5L7BPTcchCQ/edit?usp=sharing).
+Talks will take place across the entire conference. They will be oral presentations lasting 12 minutes with 3 minutes for questions, organized into 90-minute sessions. Submission template [here](https://docs.google.com/document/d/1iN9gDRa_u2kLFFl5H03BPYu8nQVjWomI5L7BPTcchCQ/edit?usp=sharing). Abstracts for talks need to be submitted; talk slides does not need to be part of the submission. 
 
 ## Posters
 
-The poster session will be held on the evening of the first night of the conference, October 15th. Poster constraints will be announced to accepted posters. Submission template [here](https://docs.google.com/document/d/1rkIdB0RQwJWolL3gwHO2YIk928-lznY2YevPXHiioMY/edit?usp=sharing).
+The poster session will be held on the evening of the first night of the conference, October 15th. Poster constraints will be announced to accepted posters. Submission template [here](https://docs.google.com/document/d/1rkIdB0RQwJWolL3gwHO2YIk928-lznY2YevPXHiioMY/edit?usp=sharing). Abstracts for posters need to be submitted; the poster does not need to be part of the submission. 
