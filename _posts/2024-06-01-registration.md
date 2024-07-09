@@ -20,4 +20,4 @@ We offer two different types of registration:
 - **Regular**: Professional - $450; Student - $150
 
 **Early Bird** registration ends on **September 1, 2024**. Keep an eye on the
-[Registration](https://us-rse.org/usrse23/attend/register/) page for more details.
+[Registration](https://us-rse.org/usrse24/attend/register/) page for more details.
