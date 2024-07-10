@@ -4,5 +4,7 @@
       link: program/
     - name: Birds of a Feather
       link: program/bofs/
+    - name: Tutorials
+      link: program/tutorials/
     - name: Workshops
       link: program/workshops/
