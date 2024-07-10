@@ -5,7 +5,7 @@ description:
 menubar: attend
 permalink: attend/travel/
 menubar_toc: true
-set_last_modified: false
+set_last_modified: true
 ---
 
 
@@ -71,7 +71,7 @@ The US-RSE’24 conference will again be offering travel grants via an applicati
 
 ## Parking and Transportation to the Venue
 
-US-RSE’24 will be taking place in the west complex of the Albuquerque Convention Center on floors 1 and 2. The registration desk will be on floor 2, outside ‘Ballroom A’.
+US-RSE’24 will be taking place in the west complex of the [Albuquerque Convention Center](https://www.visitalbuquerque.org/meetings/convention-center/specs/) on floors 1 and 3. The registration desk will be on floor 3, outside ‘Ballroom A’.
 
 Accessibility:
 
