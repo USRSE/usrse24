@@ -45,6 +45,7 @@
 
 .delete,.modal-close {
     -moz-appearance: none;
+    appearance: none;
     -webkit-appearance: none;
     background-color: rgba(10,10,10,0.2);
     border: none;
@@ -146,6 +147,7 @@
 .button,.input,.textarea,.select select,.file-cta,.file-name,.pagination-previous,.pagination-next,.pagination-link,.pagination-ellipsis {
     -moz-appearance: none;
     -webkit-appearance: none;
+    appearance: none;
     align-items: center;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -2198,6 +2200,7 @@ blockquote {
 
 .progress {
     -moz-appearance: none;
+    appearance: none;
     -webkit-appearance: none;
     border: none;
     border-radius: 290486px;
@@ -4945,6 +4948,7 @@ a.dropdown-item.is-active,button.dropdown-item.is-active {
     max-height: calc(100vh - 40px);
     overflow: hidden;
     -ms-overflow-y: visible;
+    overflow-y: visible;
 }
 
 .modal-card-head,.modal-card-foot {
