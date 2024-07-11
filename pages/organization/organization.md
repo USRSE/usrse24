@@ -29,7 +29,7 @@ set_last_modified: true
 
 ### Publication Chairs
 
-- Patrick Diehl, Louisiana State University
+- Patrick Diehl, Los Alamos National Laboratory
 - Diego Menéndez, Penn State University
 
 ### Sponsorship Chairs
