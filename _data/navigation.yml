@@ -9,11 +9,15 @@
       link: program/
     - name: Birds of a Feather
       link: program/bofs/
+    - name: Tutorials
+      link: program/tutorials/
     - name: Workshops
       link: program/workshops/
 - name: Attend
   link: attend/
   dropdown:
+    - name: Register
+      link: attend/register/
     - name: Travel
       link: attend/travel/
     - name: COVID Policy

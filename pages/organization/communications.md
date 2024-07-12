@@ -12,3 +12,12 @@ set_last_modified: true
 - Kristina Riemer, University of Arizona
 - J.C. Subida, Northwestern University
 
+## Subcommittee Chairs
+
+### Website
+
+- Jason Gochanour, Argonne National Laboratory
+
+### Outreach
+
+- Sophia Anyatonwu, US Research Software Engineer Association

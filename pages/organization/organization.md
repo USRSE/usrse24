@@ -20,7 +20,7 @@ set_last_modified: true
 ### Diversity Chairs
 
 - Cordero Core, University of Washington eScience Institute
-- Tab Memmott, Oregon Health and Science University
+- Suzanne Prentice, Oak Ridge National Laboratory
 
 ### Local Logistics Chairs
 
@@ -29,7 +29,7 @@ set_last_modified: true
 
 ### Publication Chairs
 
-- Patrick Diehl, Louisiana State University
+- Patrick Diehl, Los Alamos National Laboratory
 - Diego Menéndez, Penn State University
 
 ### Sponsorship Chairs

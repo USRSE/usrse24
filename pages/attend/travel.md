@@ -68,3 +68,20 @@ The US-RSE’24 conference will again be offering travel grants via an applicati
 - [Paseo del Bosque Trail](https://www.cabq.gov/parksandrecreation/open-space/lands/paseo-del-bosque-trail)
 - [Breweries](https://www.newmexico.org/things-to-do/cuisine/breweries-tap-rooms/)
 - [Railrunner to Santa Fe](https://www.visitalbuquerque.org/things-to-do/tours-sightseeing/self-guided/rail-runner/)
+
+## Parking and Transportation to the Venue
+
+US-RSE’24 will be taking place in the west complex of the [Albuquerque Convention Center](https://www.visitalbuquerque.org/meetings/convention-center/specs/) on floors 1 and 3. The registration desk will be on floor 3, outside ‘Ballroom A’.
+
+Accessibility:
+
+- Public transit
+  - Please see <https://www.visitalbuquerque.org/plan-my-trip/transportation/getting-around/>.
+- Bicycles
+  - Utilize either of the two west lobby entrances, the east lobby is not recommended.
+- Cars
+  - There is an east and a west parking garage attached to the convention center. Both garages have a vehicle height restriction of 7 feet. **It is strongly encouraged to use the east garage to leave space in the west garage for those requiring accessibility accommodations.**
+    NOTE: Event parking in these garages is $10.00 – $20.00 per vehicle, without in/out privileges.
+- General
+  - Elevators are available.
+  - For those using wheelchairs, it is recommended to park in the parking lot instead of the parking garages. There are three step stairs to access the venue from the parking garages.
