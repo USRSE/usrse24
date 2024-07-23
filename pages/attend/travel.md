@@ -25,9 +25,9 @@ US-RSE'24.
 - _Phone_: 505-247-3344
 - _Special Rate Group Code_: 90F
   - The special rate is available for the evenings of October 14th, 15th, and 16th.  If you need to stay the night of Thursday, October 17th as well, you will need to either:
-  - call the hotel to either make your reservation
-  - add the night of the 17th onto an existing reservation that was created online
-If you choose a checkout date beyond October 17th online, the rate for all days in your reservation will be higher.
+     - call the hotel to either make your reservation
+     - add the night of the 17th onto an existing reservation that was created online
+  - If you choose a checkout date beyond October 17th online, the rate for all days in your reservation will be higher.
 - [Booking Link](https://www.hilton.com/en/attend-my-event/usresearchengineerassociation/)
 
 ### The Clyde Hotel
