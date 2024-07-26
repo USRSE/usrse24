@@ -14,6 +14,7 @@ set_last_modified: true
 - **Papers and Notebooks**: Due Monday, June 3. Notifications Wednesday, July 3.
 - **Posters and Talks**: Due Monday, June 17. Notifications Wednesday, July 17.
 - **Camera-ready submissions (Notebooks, Papers)**: Friday, August 9
+- **Camera-ready submissions (Posters)**: Friday, October 25
 
 ## Conference
 
