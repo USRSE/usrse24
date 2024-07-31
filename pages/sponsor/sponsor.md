@@ -109,7 +109,7 @@ In terms of geographic representation, we expect attendees from across the Unite
   <tr>
     <td class="tg-0pky"><strong>Audience</strong></td>
     <td class="tg-0pky" colspan="4" style="text-align:center"><strong>Total</strong> ~ 3000
-    <p><strong>X/Twitter: </strong>2698 followers, <strong>Mastodon: </strong>333 followers, <strong>Slack: </strong>2068 members, <strong>LinkedIn: </strong>409 followers (as of 01/12/2024)</p></td>
+    <p><strong>X/Twitter: </strong>2791 followers, <strong>Mastodon: </strong>373 followers, <strong>Slack: </strong>2426 members, <strong>LinkedIn: </strong>563 followers (as of 07/31/2024)</p></td>
   </tr>
 </tbody>
 </table>
