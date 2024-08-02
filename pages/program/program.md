@@ -11,6 +11,7 @@ set_last_modified: true
 
 - [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
 - [Tutorials]({{ site.baseurl }}/program/tutorials/)
+- [Papers]({{ site.baseurl}}/program/papers/)
 - [Workshops]({{ site.baseurl }}/program/workshops/)
 
 ## Program Timetable
