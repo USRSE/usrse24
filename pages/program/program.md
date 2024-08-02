@@ -10,8 +10,9 @@ set_last_modified: true
 ## Accepted Submissions
 
 - [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
+- [Notebooks]({{ site.baseurl }}/program/notebooks/)
+- [Papers]({{ site.baseurl }}/program/papers/)
 - [Tutorials]({{ site.baseurl }}/program/tutorials/)
-- [Papers]({{ site.baseurl}}/program/papers/)
 - [Workshops]({{ site.baseurl }}/program/workshops/)
 
 ## Program Timetable
