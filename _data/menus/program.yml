@@ -8,6 +8,8 @@
       link: program/notebooks/
     - name: Papers
       link: program/papers/
+    - name: Talks
+      link: program/talks/
     - name: Tutorials
       link: program/tutorials/
     - name: Workshops

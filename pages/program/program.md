@@ -12,6 +12,7 @@ set_last_modified: true
 - [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
 - [Notebooks]({{ site.baseurl }}/program/notebooks/)
 - [Papers]({{ site.baseurl }}/program/papers/)
+- [Talks]({{ site.baseurl }}/program/talks/)
 - [Tutorials]({{ site.baseurl }}/program/tutorials/)
 - [Workshops]({{ site.baseurl }}/program/workshops/)
 
