@@ -1403,7 +1403,7 @@ set_last_modified: true
                     the
                     user to use workflow systems that explicitly declare the inputs and outputs of every node. This
                     approach
-                    shifts the compliance burden onto the user. If the user mis-specifies the workflow, it may still
+                    shifts the compliance burden onto the user. If the user misspecifies the workflow, it may still
                     execute
                     but the provenance would be wrong. The "holy-grail” would be to collect provenance data at the
                     system-level without modifying any application code and not needing superuser privileges or harming
