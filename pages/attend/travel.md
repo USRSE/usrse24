@@ -14,45 +14,6 @@ set_last_modified: true
 - **Dates**: October 15-17, 2024
 - **Location**: [Albuquerque Convention Center](https://albuquerquecc.com/), 401 2nd St NW, Albuquerque, NM 87102
 
-## Travel and Dependent Care Support Program
-
-The US-RSE’24 conference will again be offering travel and dependent care support
-via an application process.
-
-With the sponsorship of various organizations such as the
-[National Science Foundation](https://www.nsf.org/), a limited number of student and early career
-travel and dependent care financial support awards are available to assist
-applicants in attending US-RSE'24.
-
-Please use this form to enter all the relevant information to apply for a
-travel or dependent care support.
-Priority will be given to those having an accepted submission at the US-RSE'24
-conference and to enhance the diversity of participants. 
-
-Travel grant awardees will be reimbursed for up to $2100 for their travel,
-registration, and/or accommodation as per the guidelines upon producing
-suitable bills for the same. Dependent care awardees will be reimbursed
-up to $500 upon providing dependent care receipts. We can retract funding if
-recipients do not adhere to the program rules.
-
-As per the rules:
-
-- The awardee must attend all conference sessions throughout its entire duration of 3 days. 
-  - Exceptions will be made for students who are attending student events during regular sessions.
-- The awardee must check in at the registration desk each day of the conference. 
-- The awardees will be required to volunteer at the conference as per instructions issued later. 
-- Student travel awardees must also participate in the mentorship sessions organized during the conference.
-- Travel awardees must register for the conference by **September 16, 2024**.
-
-**Deadlines**
-
-- Application opens: August 8, 2024
-- Submission deadline:  September 2, 2024
-- Award Notification selection: September 6, 2024
-
-[Application Form](https://bit.ly/usrse24-travel-support): [https://bit.ly/usrse24-travel-support](https://bit.ly/usrse24-travel-support)
-
-
 ## Hotel Accommodation
 
 We have contracted with several different hotels to provide special rates for
@@ -79,6 +40,17 @@ US-RSE'24.
 ### Other Nearby Hotels
 
 - Hotel Andaluz Albuquerque, Curio Collection - 330 Tijeras Ave NW, Albuquerque, NM 87102 (0.1 miles away)
+
+## Travel Grants
+
+The US-RSE’24 conference will again be offering travel grants via an application process.
+
+- Travel grants can be used for transportation, registration, and/or accommodations.
+- Meals will be provided at the conference on conference days.
+- Priority will be given to...
+  - those having an accepted submission at the US-RSE’24 conference.
+  - enhance the diversity of participants.
+- The form to apply for travel grants will be available by **early August**.
 
 ## Things To Do
 
