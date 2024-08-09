@@ -812,7 +812,7 @@ tags will be replaced.-->
  <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
  <!----------------------------->
 
- <i>All times listed in Central Time (MT) </i><br><br>
+ <i>All times listed in Mountain Time (MT) </i><br><br>
 
  <div id="program_15106" align=center x:publishsource="Excel">
 
