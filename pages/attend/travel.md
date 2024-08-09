@@ -14,25 +14,24 @@ set_last_modified: true
 - **Dates**: October 15-17, 2024
 - **Location**: [Albuquerque Convention Center](https://albuquerquecc.com/), 401 2nd St NW, Albuquerque, NM 87102
 
-## Travel and Dependent Care Support Program
+## Travel Support Program
 
-The US-RSE’24 conference will again be offering travel and dependent care support
+The US-RSE’24 conference will again be offering travel support
 via an application process.
 
 With the sponsorship of various organizations such as the
 [National Science Foundation](https://www.nsf.org/), a limited number of student and early career
-travel and dependent care financial support awards are available to assist
+travel support awards are available to assist
 applicants in attending US-RSE'24.
 
 Please use this form to enter all the relevant information to apply for a
-travel or dependent care support.
+travel support.
 Priority will be given to those having an accepted submission at the US-RSE'24
 conference and to enhance the diversity of participants. 
 
 Travel support awardees will be reimbursed for up to $2100 for their travel,
 registration, and/or accommodation as per the guidelines upon producing
-suitable bills for the same. Dependent care awardees will be reimbursed
-up to $500 upon providing dependent care receipts. We can retract funding if
+suitable bills for the same. We can retract funding if
 recipients do not adhere to the program rules.
 
 As per the rules:
