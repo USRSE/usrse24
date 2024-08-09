@@ -29,7 +29,7 @@ travel or dependent care support.
 Priority will be given to those having an accepted submission at the US-RSE'24
 conference and to enhance the diversity of participants. 
 
-Travel grant awardees will be reimbursed for up to $2100 for their travel,
+Travel support awardees will be reimbursed for up to $2100 for their travel,
 registration, and/or accommodation as per the guidelines upon producing
 suitable bills for the same. Dependent care awardees will be reimbursed
 up to $500 upon providing dependent care receipts. We can retract funding if
