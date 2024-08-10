@@ -1239,14 +1239,13 @@ tags will be replaced.-->
   <td rowspan=2 height=290 class=xl736507 width=108 style='height:217.5pt;
   width:81pt'>10:30 AM</td>
   <td colspan=2 class=xl786507 width=302 style='width:227pt'><font
-  class="font116507">Session 1A</font><font class="font66507">: RSE Pedagogy, </font><font
+  class="font116507">Session 1A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1a">RSE Pedagogy</a>, </font><font
   class="font106507">Hopi/Tewa</font></td>
-  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'>Session
-  1B<font class="font56507">: AI, ML, and Automation, </font><font
+  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'>Session 1B<font class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 1C</font><font
-  class="font56507">: Insights on Research Software Practices and Principles, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-1c">Insights on Research Software Practices and Principles</a>, </font><font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=253 style='mso-height-source:userset;height:189.5pt'>
@@ -1388,8 +1387,8 @@ tags will be replaced.-->
   <td rowspan=2 height=254 class=xl736507 width=108 style='height:190.5pt;
   border-top:none;width:81pt'>1:00 PM</td>
   <td colspan=2 class=xl786507 width=302 style='width:227pt'><font
-  class="font116507">Session 2A</font><font class="font66507">: Software
-  Sustainability and Legacy Code, </font><font class="font106507">Hopi/Tewa</font></td>
+  class="font116507">Session 2A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-2a">Software
+  Sustainability and Legacy Code</a>, </font><font class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
   class="font126507">Workshop 4</font><font class="font56507">:
   &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-4">Establishing RSE Programs - From early stage formalization to mature
@@ -1397,7 +1396,7 @@ tags will be replaced.-->
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 2B</font><font
-  class="font56507">: Unique Stories in Research Software Experience, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-2b">Unique Stories in Research Software Experience</a>, </font><font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=210 style='mso-height-source:userset;height:157.5pt'>
@@ -1431,8 +1430,8 @@ tags will be replaced.-->
   <td rowspan=3 height=259 class=xl776507 width=108 style='height:195.0pt;
   width:81pt'>3:00 PM</td>
   <td colspan=2 rowspan=2 class=xl856507 width=302 style='width:227pt'><font
-  class="font146507">Session 3</font><font class="font76507">: WetWare:
-  Research Software in Chemical and Life Sciences, </font><font
+  class="font146507">Session 3</font><font class="font76507">: <a href="{{ site.baseurl }}/program/sessions/#session-3">WetWare:
+  Research Software in Chemical and Life Sciences</a>, </font><font
   class="font156507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=3 class=xl806507 width=284 style='width:213pt'><font
   class="font146507">Workshop 4</font><font class="font76507">:
@@ -1499,7 +1498,7 @@ tags will be replaced.-->
   class="font136507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 4</font><font
-  class="font56507">: Case Studies in Research Software, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-4">Case Studies in Research Software</a>, </font><font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=197 style='mso-height-source:userset;height:148.0pt'>
@@ -1507,7 +1506,7 @@ tags will be replaced.-->
   height:148.0pt;border-left:none;width:269pt'>Leveraging CVMFS for Scaling and
   Optimizing JupyterHub-based Gateways<br>
     From Core to Atuin: Citing Software All The Way Down The Stack<br>
-    Reproducible notebooks without (too much) effort: a simple but effective
+    Reproducing notebooks without (too much) effort: a simple but effective
   automated workflow for US-RSE’24 and beyond using Binder and GitHub
   Actions<br>
     Building a composable stack for research cyberinfrastructure<br>
@@ -1532,7 +1531,7 @@ tags will be replaced.-->
   Source Science</a>, </font><font class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 5</font><font
-  class="font56507">: RSE in Action!, </font><font class="font136507">Cochiti</font></td>
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-5">RSE in Action!</a>, </font><font class="font136507">Cochiti</font></td>
  </tr>
  <tr height=128 style='mso-height-source:userset;height:96.0pt'>
   <td colspan=2 height=128 class=xl846507 width=358 style='border-right:.5pt solid white;
@@ -1563,7 +1562,7 @@ tags will be replaced.-->
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 6</font><font
-  class="font56507">: Reproducible Software Ecosystems, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-6">Reproducible Software Ecosystems</a>, </font><font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=235 style='mso-height-source:userset;height:176.0pt'>
