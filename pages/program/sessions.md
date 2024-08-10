@@ -18,7 +18,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseEight"
                     aria-expanded="false" aria-controls="collapseEight">
-                    "A Brief Introduction to HPC Carpentry", Andrew Reid
+                    "A Brief Introduction to HPC Carpentry", Andrew Reid - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -56,7 +56,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10"
                     aria-expanded="false" aria-controls="collapse10">
                     "Lessons Learned While Building an Effective and Equitable Internship Program", Ryan Nakashima,
-                    Jenny Nguyen
+                    Jenny Nguyen - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -81,7 +81,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse15"
                     aria-expanded="false" aria-controls="collapse15">
                     "Student Research Software Engineers: Insights from Macro and Micro Perspectives", Helen
-                    Kershaw, Virginia Do
+                    Kershaw, Virginia Do - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -123,7 +123,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse20"
                     aria-expanded="false" aria-controls="collapse20">
-                    "Creating a Curriculum for Curating Code", Seth Erickson, Greg Janée
+                    "Creating a Curriculum for Curating Code", Seth Erickson, Greg Janée - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -188,7 +188,7 @@ set_last_modified: true
                     aria-expanded="false" aria-controls="collapse21">
                     "Experiences in Teaching Prospective Research Software Engineers at the University of Chicago",
                     Trevor
-                    Spreadbury, Launa Greer, Todd Nief
+                    Spreadbury, Launa Greer, Todd Nief - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -251,7 +251,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
                     aria-expanded="false" aria-controls="collapseThree">
                     "Foundational competencies of an RSE: state of the project and what comes next", Jan Philipp
-                    Thiele, Toby Hodges, Florian Goth
+                    Thiele, Toby Hodges, Florian Goth - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -292,7 +292,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse42"
                     aria-expanded="false" aria-controls="collapse42">
-                    "Leveraging LLMs for Effective Coding", Jonathan Bisila
+                    "Leveraging LLMs for Effective Coding", Jonathan Bisila - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -331,7 +331,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse44"
                     aria-expanded="false" aria-controls="collapse44">
-                    "Bridging the Valley of Death: From Research to Deployment in AI/ML", Jonathan Bisila
+                    "Bridging the Valley of Death: From Research to Deployment in AI/ML", Jonathan Bisila - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -377,7 +377,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse16"
                     aria-expanded="false" aria-controls="collapse16">
-                    "Enhancing the application of large language models with retrieval-augmented generation for a research community", Juan José García Mesa, Gil Speyer
+                    "Enhancing the application of large language models with retrieval-augmented generation for a research community", Juan José García Mesa, Gil Speyer - <i>Paper</i>
                 </button>
             </h5>
         </div>
@@ -394,7 +394,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse101"
                     aria-expanded="false" aria-controls="collapse101">
-                    "An Empirical Survey of GitHub Repositories at Research Universities", Samuel D. Schwartz, Boyana Norris, Stephen F. Fickas
+                    "An Empirical Survey of GitHub Repositories at Research Universities", Samuel D. Schwartz, Boyana Norris, Stephen F. Fickas - <i>Paper</i>
                 </button>
             </h5>
         </div>
@@ -412,7 +412,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse102"
                     aria-expanded="false" aria-controls="collapse102">
                     "Decentralized collaboration for the AutoRA Python package with a functional paradigm and
-                    namespace packages", John G. Holland
+                    namespace packages", John G. Holland - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -459,7 +459,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse103"
                     aria-expanded="false" aria-controls="collapse103">
-                    "User-Centric Science: Unveiling the Power of Design at NCSA", Lisa Gatzke, Kate Arneson, Leigh Fu
+                    "User-Centric Science: Unveiling the Power of Design at NCSA", Lisa Gatzke, Kate Arneson, Leigh Fu - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -504,7 +504,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse35"
                     aria-expanded="false" aria-controls="collapse35">
-                    "Containers, structured programming and encapsulation - what would Djikstra think", Chris Hill
+                    "Containers, structured programming and encapsulation - what would Djikstra think", Chris Hill - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -556,8 +556,7 @@ set_last_modified: true
                     aria-expanded="false" aria-controls="collapse40">
                     "Building Bridges and Breaking Barriers: How Research Software Engineers and Software Engineering
                     Researchers Can Partner for Success", Reed Milewicz, Sam Grayson, Matt Armstrong, Jeffrey Carver,
-                    Daniel
-                    Katz, Darko Marinov
+                    Daniel Katz, Darko Marinov - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -606,8 +605,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse39"
                     aria-expanded="false" aria-controls="collapse39">
                     "Analyzing the Security Culture of Research Software Engineers", Matthew Armstrong, Jeffrey Carver,
-                    Reed
-                    Milewicz
+                    Reed Milewicz - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -662,7 +660,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse14"
                     aria-expanded="false" aria-controls="collapse14">
                     "A Mature RSE Capability Examined: Space Analysis and Applications at Johns Hopkins APL",
-                    Christopher D. Jeschke, Jon Vandegriff, Scott Turner
+                    Christopher D. Jeschke, Jon Vandegriff, Scott Turner - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -693,7 +691,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne"
                     aria-expanded="false" aria-controls="collapseOne">
                     "Future Beyond Borders: Transforming the Research Software through Internationalization,
-                    Localization and Translation", Pengyin Shan
+                    Localization and Translation", Pengyin Shan - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -751,7 +749,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix"
                     aria-expanded="false" aria-controls="collapseSix">
                     "Software Resurrection: Discovering Programming Pearls by Showing Modernity to Historical
-                    Software", Abhishek Dutta
+                    Software", Abhishek Dutta - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -801,7 +799,7 @@ set_last_modified: true
                     "Towards Sustainable and Discoverable Computational Models: The Engineering Common Model Framework
                     (ECMF) Project at Sandia", Reed Milewicz, Aaron Brundage, Raisa Koshkin, Evan Harvey, Eric Berquist,
                     Eric Ho, Joshua Teves, Aaron Moreno, Christian Gilbertson, Samuel Grayson, John Engelmann, Edward
-                    Hoffman, Ernest Friedman-Hill, Kevin W. Irick, Nicholas Francis
+                    Hoffman, Ernest Friedman-Hill, Kevin W. Irick, Nicholas Francis - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -843,7 +841,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse18"
                     aria-expanded="false" aria-controls="collapse18">
-                    "Fortran at NERSC: A Cycle of Support", Brad Richardson
+                    "Fortran at NERSC: A Cycle of Support", Brad Richardson - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -865,7 +863,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse104"
                     aria-expanded="false" aria-controls="collapse104">
-                    "Preferred Practices Through a Project Template", Peter F. Peterson, Chen Zhang, Jose M. Borreguero-Calvo, Kevin A. Tactac
+                    "Preferred Practices Through a Project Template", Peter F. Peterson, Chen Zhang, Jose M. Borreguero-Calvo, Kevin A. Tactac - <i>Paper</i>
                 </button>
             </h5>
         </div>
@@ -884,7 +882,7 @@ set_last_modified: true
                     aria-expanded="false" aria-controls="collapse36">
                     "Defining, Measuring, and Enhancing Sustainability in Scientific Software: Insights from CORSA",
                     Addi
-                    Malviya-Thakur, Gregory R. Watson, Daniel S. Katz, Elaine Raybourn
+                    Malviya-Thakur, Gregory R. Watson, Daniel S. Katz, Elaine Raybourn - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -945,7 +943,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse38"
                     aria-expanded="false" aria-controls="collapse38">
                     "Do Good: strategies for leading an inclusive collaborative data science and RSE teams", Jeffrey C.
-                    Oliver, Christina Maimone, Julia L. Sharp, Ofira Schwartz-Soicher, Lencia Beltran
+                    Oliver, Christina Maimone, Julia L. Sharp, Ofira Schwartz-Soicher, Lencia Beltran - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -975,7 +973,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
                     aria-expanded="false" aria-controls="collapseFour">
                     "The UCAR SEA: Adapting a legacy employee resource group into an RSE community of practice",
-                    Brian Vanderwende
+                    Brian Vanderwende - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1021,7 +1019,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse31"
                     aria-expanded="false" aria-controls="collapse31">
                     "The Long Tale of NCSA’s RSEs", Kenton McHenry, Colleen Bushell, Daniel S. Katz, Jong Lee, Steve
-                    Pietrowicz, John Towns
+                    Pietrowicz, John Towns - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1081,8 +1079,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse34"
                     aria-expanded="false" aria-controls="collapse34">
                     "The Creation of an RSE Career Path at Princeton University", Ian A. Cosden, Joel Bretheim, David
-                    Luet,
-                    Beth Holtz
+                    Luet, Beth Holtz - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1122,7 +1119,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse30"
                     aria-expanded="false" aria-controls="collapse30">
-                    "Long-time listener, first-time caller: My RSE Identity Journey", Mikaela Cashman
+                    "Long-time listener, first-time caller: My RSE Identity Journey", Mikaela Cashman - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1168,7 +1165,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse28"
                     aria-expanded="false" aria-controls="collapse28">
                     "The long and winding road: Building and growing a research engineering team at the UK's national
-                    institute for data science and AI", Martin O'Reilly
+                    institute for data science and AI", Martin O'Reilly - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1232,7 +1229,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse105"
                     aria-expanded="false" aria-controls="collapse105">
-                    "Lab Dragon: An electronic Laboratory Notebook to Support Human Practices in Experimental Science", Marcos Frenkel, Wolfgang Pfaff, Santiago Núñez-Corrales, Rob Kooper
+                    "Lab Dragon: An electronic Laboratory Notebook to Support Human Practices in Experimental Science", Marcos Frenkel, Wolfgang Pfaff, Santiago Núñez-Corrales, Rob Kooper - <i>Paper</i>
                 </button>
             </h5>
         </div>
@@ -1250,7 +1247,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse106"
                     aria-expanded="false" aria-controls="collapse106">
-                    "Using Radicals to Empower Budding Computational Chemists", Jacob States, Isaac Spackman, Shubham Vyas
+                    "Using Radicals to Empower Budding Computational Chemists", Jacob States, Isaac Spackman, Shubham Vyas - <i>Notebook</i>
                 </button>
             </h5>
         </div>
@@ -1269,8 +1266,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse25"
                     aria-expanded="false" aria-controls="collapse25">
                     "Software testing in a community-driven web-based analysis platform for life science research",
-                    Robert
-                    W. Cottingham, Mikaela Cashman, Myra B. Cohen, Alexis L. Marsh
+                    Robert W. Cottingham, Mikaela Cashman, Myra B. Cohen, Alexis L. Marsh - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1319,7 +1315,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
                     aria-expanded="false" aria-controls="collapseFive">
                     "Honeycomb: a template for reproducible psychophysiological tasks for clinic, laboratory, and
-                    home use", Robert M Gemma, Jr.
+                    home use", Robert M Gemma, Jr. - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1360,7 +1356,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse17"
                     aria-expanded="false" aria-controls="collapse17">
                     "Developing a Cloud First Personalized Ecological Momentary Assessments Delivery Tool", Shravan
-                    Aras, Zachary Cohen, Nate Choukas, Torsa Chattoraj
+                    Aras, Zachary Cohen, Nate Choukas, Torsa Chattoraj - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1397,7 +1393,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse33"
                     aria-expanded="false" aria-controls="collapse33">
-                    "A Rising Tide: One model for improving research software use in the life sciences", Kristina Riemer
+                    "A Rising Tide: One model for improving research software use in the life sciences", Kristina Riemer - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1477,7 +1473,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseNine"
                     aria-expanded="false" aria-controls="collapseNine">
-                    "Leveraging CVMFS for Scaling and Optimizing JupyterHub-based Gateways", Noah Samuel Oller Smith
+                    "Leveraging CVMFS for Scaling and Optimizing JupyterHub-based Gateways", Noah Samuel Oller Smith - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1525,9 +1521,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse26"
                     aria-expanded="false" aria-controls="collapse26">
-                    "From Core to Atuin: Citing Software All The Way Down The Stack", Richard Littauer, Tobias
-                    Augspurger,
-                    Andrew Nesbitt
+                    "From Core to Atuin: Citing Software All The Way Down The Stack", Richard Littauer, Tobias Augspurger, Andrew Nesbitt - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1564,7 +1558,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse37"
                     aria-expanded="false" aria-controls="collapse37">
                     "Reproducing notebooks without (too much) effort: a simple but effective automated workflow for
-                    US-RSE’24 and beyond using Binder and GitHub Actions", Ludovico Bianchi, Nicole Brewer, Torin White
+                    US-RSE’24 and beyond using Binder and GitHub Actions", Ludovico Bianchi, Nicole Brewer, Torin White - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1617,7 +1611,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse24"
                     aria-expanded="false" aria-controls="collapse24">
-                    "Building a composable stack for research cyberinfrastructure", Rob Kooper, T. Andrew Manning
+                    "Building a composable stack for research cyberinfrastructure", Rob Kooper, T. Andrew Manning - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1672,7 +1666,7 @@ set_last_modified: true
     <div class="card-header" id="headingSix">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-          "Community Resilience Research Using IN-CORE - Case Study with 2011 Tornado Event at Joplin, MO", Chen Wang, Jong Lee, Chris Navarro, Rashmil Panchani, Yong Wook Kim, Y-Lan Yang, Rob Kooper, Vismayak Mohanarajan, Wanting Lisa Wang, Lisa Watkins
+          "Community Resilience Research Using IN-CORE - Case Study with 2011 Tornado Event at Joplin, MO", Chen Wang, Jong Lee, Chris Navarro, Rashmil Panchani, Yong Wook Kim, Y-Lan Yang, Rob Kooper, Vismayak Mohanarajan, Wanting Lisa Wang, Lisa Watkins - <i>Notebook</i>
         </button>
       </h5>
     </div>
@@ -1703,7 +1697,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
                     aria-expanded="false" aria-controls="collapseTwo">
-                    "Harnessing the power of HPC from the comfort of R", Eric R. Scott
+                    "Harnessing the power of HPC from the comfort of R", Eric R. Scott - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1747,7 +1741,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSeven"
                     aria-expanded="false" aria-controls="collapseSeven">
-                    "Population Modeling Workflow in the Cloud using OpenStack", Jim Massaro
+                    "Population Modeling Workflow in the Cloud using OpenStack", Jim Massaro - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1774,9 +1768,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse32"
                     aria-expanded="false" aria-controls="collapse32">
-                    "PROBE4RSE: Provenance for Replay OBservation Engine for Research Software Engineers", Samuel
-                    Grayson,
-                    Reed Milewicz, Daniel S. Katz, Darko Marinov
+                    "PROBE4RSE: Provenance for Replay OBservation Engine for Research Software Engineers", Samuel Grayson, Reed Milewicz, Daniel S. Katz, Darko Marinov - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1841,7 +1833,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse23"
                     aria-expanded="false" aria-controls="collapse23">
                     "Codefair: Your Personal Assistant for Developing FAIR Software", Bhavesh Patel, Sanjay Soundarajan,
-                    Dorian Portillo, Jacob Clark
+                    Dorian Portillo, Jacob Clark - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -1914,7 +1906,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse107"
                     aria-expanded="false" aria-controls="collapse107">
-                    "Hawai'i Climate Data Portal API Demo", Jared McLean, Sean Cleveland
+                    "Hawai'i Climate Data Portal API Demo", Jared McLean, Sean Cleveland - <i>Notebook</i>
                 </button>
             </h5>
         </div>
@@ -1942,7 +1934,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse43"
                     aria-expanded="false" aria-controls="collapse43">
                     "Importance of Science Gateway Frameworks for Research and Their Benefits for Research Software
-                    Engineers", Sandra Gesing, Claire Stirm, Maytal Dahan, Amit Chourasia
+                    Engineers", Sandra Gesing, Claire Stirm, Maytal Dahan, Amit Chourasia - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -2007,10 +1999,8 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse19"
                     aria-expanded="false" aria-controls="collapse19">
                     "Transforming Academic Publishing: A Jupyter Notebook-Based Submission Ecosystem implemented for SEA
-                    ISS
-                    Conference for Enhanced Open Science and Reproducibility", Negin Sobhani, Katelyn Fitzgerald,
-                    Haiying
-                    Xu, Keith Maul, Brian Vanderwende
+                    ISS Conference for Enhanced Open Science and Reproducibility", Negin Sobhani, Katelyn Fitzgerald,
+                    Haiying Xu, Keith Maul, Brian Vanderwende - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -2052,8 +2042,7 @@ set_last_modified: true
             <h5 class="mb-0">
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse22"
                     aria-expanded="false" aria-controls="collapse22">
-                    "Documenting Research Artifacts for Reproducibility", Johanna Cohoon, Robert Ricci, Eric Eide, Jason
-                    Wiese
+                    "Documenting Research Artifacts for Reproducibility", Johanna Cohoon, Robert Ricci, Eric Eide, Jason Wiese - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -2090,7 +2079,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse27"
                     aria-expanded="false" aria-controls="collapse27">
                     "The KBase Narrative: Reproducible, FAIR data access through Jupyter notebooks", William J Riehl, AJ
-                    Ireland, Benjamin Allen, Zachary Crockett, Mikaela Cashman, Elisha Wood-Charlson
+                    Ireland, Benjamin Allen, Zachary Crockett, Mikaela Cashman, Elisha Wood-Charlson - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -2159,8 +2148,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse29"
                     aria-expanded="false" aria-controls="collapse29">
                     "From bench to desktop: a case study in enabling reproducible data analysis with RainFlow", Ritika
-                    Giri,
-                    Heliodoro Tejedor Navarro, Luís A.N. Amaral
+                    Giri, Heliodoro Tejedor Navarro, Luís A.N. Amaral - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -2225,7 +2213,7 @@ set_last_modified: true
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse13"
                     aria-expanded="false" aria-controls="collapse13">
                     "Information Security Engineering and Research Software Engineering: Shared Goals, Shared
-                    Approaches, and Shared Success", Glen Shere
+                    Approaches, and Shared Success", Glen Shere - <i>Talk</i>
                 </button>
             </h5>
         </div>
