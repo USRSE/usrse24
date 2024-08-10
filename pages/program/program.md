@@ -1203,7 +1203,7 @@ tags will be replaced.-->
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial: &quot;</font><font
   class="font86507">Research Data Automation with Globus Flows and Globus
-  Compute,&quot; Lee Liming - <a href="https://zoom.us/meeting/register/tJMkfumgqjgtH9WoOoVRPLQZXrhI4AXqW6fN#/registration" target="_blank">Register Now<a></font></td>
+  Compute,&quot; Lee Liming - <a href="https://zoom.us/meeting/register/tJMkfumgqjgtH9WoOoVRPLQZXrhI4AXqW6fN#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl996507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
