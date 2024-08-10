@@ -1370,8 +1370,8 @@ tags will be replaced.-->
   <td colspan=2 class=xl826507 width=302 style='width:227pt'>BoFs 1A<font
   class="font66507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-1a">Better Scientific Software Fellowship Community</a>, </font><font
   class="font106507">Hopi/Tewa</font></td>
-  <td colspan=2 class=xl846507 width=284 style='border-left:none;width:213pt'><b>Working
-  Group Fair</b>, <font class="font136507">Taos</font></td>
+  <td colspan=2 class=xl846507 width=284 style='border-left:none;width:213pt'><b><a href="{{ site.baseurl }}/program/sessions/#wg-fair">Working
+  Group Fair</a></b>, <font class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">BoFs 1B</font><font
   class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-1b">RSEs in domain-specific ecosystems</a>, </font><font

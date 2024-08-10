@@ -2248,3 +2248,19 @@ set_last_modified: true
 
 ---
 
+<a name="wg-fair"></a>
+## Working Group Fair
+
+This session is designed to provide attendees with an opportunity to meet and
+interact with members of various <a href="https://us-rse.org/working-groups/" target="_blank">Working Groups</a> within the US-RSE community.
+
+**Featured Working Groups**
+
+- Diversity, Equity, and Inclusion (DEI): Explore initiatives aimed at promoting a diverse and inclusive environment within the research software engineering community.
+- Education and Training: Discover programs and resources designed to enhance the skills and knowledge of RSE professionals.
+- National Labs: Learn about efforts to empower RSEs in national labs and other similar organizations.
+- And many more!
+
+Are you a current US-RSE member looking to deepen their involvement? A newcomer to the US-RSE community? Just curious? Join the session to learn, engage, and maybe even share your passion by becoming a Working Group member!
+
+
