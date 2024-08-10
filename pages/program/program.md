@@ -1137,7 +1137,7 @@ tags will be replaced.-->
 <div id="2024 Program_6507" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=1052 class=xl646507
- style='border-collapse:collapse;table-layout:fixed;width:790pt'>
+ style='border-collapse:collapse;table-layout:auto;width:100%'>
  <col class=xl656507 width=108 style='mso-width-source:userset;mso-width-alt:
  3770;width:81pt'>
  <col class=xl646507 width=93 style='width:70pt'>
