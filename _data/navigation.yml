@@ -15,6 +15,10 @@
       link: program/papers/
     - name: Posters
       link: program/posters/
+    - name: Rapid Access Microtalks
+      link: program/ram/
+    - name: Sessions
+      link: program/sessions/
     - name: Talks
       link: program/talks/
     - name: Tutorials

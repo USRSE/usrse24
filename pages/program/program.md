@@ -1489,8 +1489,8 @@ tags will be replaced.-->
  <tr height=26 style='mso-height-source:userset;height:19.5pt'>
   <td rowspan=2 height=223 class=xl736507 width=108 style='border-bottom:.5pt solid #BFBFBF;
   height:167.5pt;border-top:none;width:81pt'>10:30 AM</td>
-  <td colspan=2 rowspan=2 class=xl826507 width=302 style='width:227pt'>Rapid
-  Access Microtalks (RAM)<font class="font66507">, </font><font
+  <td colspan=2 rowspan=2 class=xl826507 width=302 style='width:227pt'><a href="{{ site.baseurl }}/program/ram/">Rapid
+  Access Microtalks (RAM)</a><font class="font66507">, </font><font
   class="font106507">Ballroom A</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
   class="font126507">BoFs 3</font><font class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-3">Brainstorming
