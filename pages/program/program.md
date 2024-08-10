@@ -1119,11 +1119,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-background-source:auto;
 	mso-pattern:auto;
 	white-space:normal;}
+-->
 ul {
   list-style-position: inside;
   padding-left: 0;
 }
---></style>
+</style>
 </head>
 
 <body link="#1155CC" vlink="#1155CC">
