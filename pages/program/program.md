@@ -1596,17 +1596,23 @@ tags will be replaced.-->
 <!----------------------------->
 <!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
 <!----------------------------->
+
+<h2 id="accepted-submissions">Accepted Submissions</h2>
+
+<ul>
+  <li><a href="{{ site.baseurl }}/program/bofs/">Birds of a Feather</a></li>
+  <li><a href="{{ site.baseurl }}/program/notebooks/">Notebooks</a></li>
+  <li><a href="{{ site.baseurl }}/program/papers/">Papers</a></li>
+  <li><a href="{{ site.baseurl }}/program/posters/">Posters</a></li>
+  <li><a href="{{ site.baseurl }}/program/talks/">Talks</a></li>
+  <li><a href="{{ site.baseurl }}/program/tutorials/">Tutorials</a></li>
+  <li><a href="{{ site.baseurl }}/program/workshops/">Workshops</a></li>
+</ul>
+
 </body>
 
 </html>
 
-## Accepted Submissions
 
-- [Birds of a Feather]({{ site.baseurl }}/program/bofs/)
-- [Notebooks]({{ site.baseurl }}/program/notebooks/)
-- [Papers]({{ site.baseurl }}/program/papers/)
-- [Talks]({{ site.baseurl }}/program/talks/)
-- [Tutorials]({{ site.baseurl }}/program/tutorials/)
-- [Workshops]({{ site.baseurl }}/program/workshops/)
 
 
