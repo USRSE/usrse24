@@ -8,30 +8,29 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-
 ## Venue Information
 
 - **Dates**: October 15-17, 2024
 - **Location**: [Albuquerque Convention Center](https://albuquerquecc.com/), 401 2nd St NW, Albuquerque, NM 87102
 
-## Travel Support Program
-
-The US-RSE’24 conference will again be offering travel support
-via an application process.
+## Travel and Dependent Care Support Program
 
 With the sponsorship of various organizations such as the
-[National Science Foundation](https://www.nsf.org/), a limited number of student and early career
-travel support awards are available to assist
+[National Science Foundation](https://www.nsf.org/) and the
+[San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC),
+a limited number of student and early career
+travel and dependent care financial support awards are available to assist
 applicants in attending US-RSE'24.
 
 Please use this form to enter all the relevant information to apply for a
-travel support.
+travel or dependent care support.
 Priority will be given to those having an accepted submission at the US-RSE'24
 conference and to enhance the diversity of participants. 
 
-Travel support awardees will be reimbursed for up to $2100 for their travel,
+Travel support awardees will be covered for up to $2100 for their travel,
 registration, and/or accommodation as per the guidelines upon producing
-suitable bills for the same. We can retract funding if
+suitable bills for the same. Dependent care awardees will be reimbursed
+up to $500 upon providing dependent care receipts. We can retract funding if
 recipients do not adhere to the program rules.
 
 As per the rules:
@@ -45,12 +44,17 @@ As per the rules:
 
 **Deadlines**
 
-- Application opens: August 8, 2024
+- Application opens: August 12, 2024
 - Submission deadline:  September 2, 2024
 - Award Notification selection: September 6, 2024
 
 [Application Form](https://bit.ly/usrse24-travel-support): [https://bit.ly/usrse24-travel-support](https://bit.ly/usrse24-travel-support)
 
+### Alternative Support Options
+
+US-RSE'24 is an eligible conference for
+[CCEP (CSSN Community Engagement Program)](https://support.access-ci.org/ccep/overview)
+through ACCESS.
 
 ## Hotel Accommodation
 
