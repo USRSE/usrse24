@@ -11,6 +11,7 @@ set_last_modified: true
 Tutorials will be online only and conducted virtually in the weeks prior to the
 conference.
 
+<a name="tutorial-1"></a>
 ## Globus Compute: Managed Compute Across the Computing Continuum
 
 _Kyle Chard and Yadu Babuji_
@@ -30,6 +31,7 @@ where allocations are available, etc.
 
 ------
 
+<a name="tutorial-4"></a>
 ## Rapid Prototyping for a Usable React-based Web Application with STRUDEL
 
 _Rajshree Deshmukh, Cody O'Donnell, Lavanya Ramakrishnan_
@@ -46,6 +48,7 @@ scientific projects and target a broad range of people involved in web applicati
 
 ------
 
+<a name="tutorial-5"></a>
 ## Leveraging Django Views and Permissions at Object-Level: The gist of an envisioned solution for managing agricultural datasets
 
 _Diego Menéndez and Danying Shao_
@@ -65,6 +68,7 @@ as well as a conceptual class diagram and other artifacts.
 
 ------
 
+<a name="tutorial-6"></a>
 ## Research Data Automation with Globus Flows and Globus Compute
 
 _Lee Liming and Steve Turoscy_
@@ -78,6 +82,7 @@ construct data processing pipelines that are reliably managed and executed by Gl
 
 ------
 
+<a name="tutorial-2"></a>
 ## GitHub Actions for Scientific Data Workflows
 
 _Valentina Staneva_
@@ -93,6 +98,7 @@ integrate Github Actions in their own work.
 
 ------
 
+<a name="tutorial-3"></a>
 ## Overview of GIS Open Source Software Ecosystem and Theory
 
 _Dennis Milechin_

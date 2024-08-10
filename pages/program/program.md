@@ -1160,7 +1160,7 @@ tags will be replaced.-->
   7, 11:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
-  &quot;Globus Compute: Managed Compute Across the Computing Continuum,&quot;
+  &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-1">Globus Compute: Managed Compute Across the Computing Continuum</a>,&quot;
   Kyle Chard, Yadu Babuji, Reid Mello - <a href="https://zoom.us/meeting/register/tJwkc-iorz0qG9LjZ4bpUvLV3O4Tcz4jEFL-#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1168,7 +1168,7 @@ tags will be replaced.-->
   width:81pt'>Oct 7, 3:00 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
-  &quot;GitHub Actions for Scientific Data Workflows,&quot; Valentina Staneva,
+  &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-2">GitHub Actions for Scientific Data Workflows</a>,&quot; Valentina Staneva,
   Quinn Brencher - <a href="https://zoom.us/meeting/register/tJEudO2tpjoqG9XF2XNXFKQ_HRXZZ8YDXh7I#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1176,7 +1176,7 @@ tags will be replaced.-->
   8, 11:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
-  &quot;Overview of GIS Open Source Software Ecosystem and Theory,&quot; Dennis
+  &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-3">Overview of GIS Open Source Software Ecosystem and Theory</a>,&quot; Dennis
   Milechin - <a href="https://zoom.us/meeting/register/tJIocumhrj8uGdzeUsarR1uTccELjtrXw09O#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=39 style='mso-height-source:userset;height:29.5pt'>
@@ -1184,8 +1184,8 @@ tags will be replaced.-->
   9, 11:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
-  &quot;Rapid Prototyping for a Usable React-based Web Application with
-  STRUDEL,&quot; Cody O'Donnell, Rajshree Deshmukh, Lavanya Ramakrishnan -
+  &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-4">Rapid Prototyping for a Usable React-based Web Application with
+  STRUDEL</a>,&quot; Cody O'Donnell, Rajshree Deshmukh, Lavanya Ramakrishnan -
   <a href="https://zoom.us/meeting/register/tJMqd--tqzooHtEtl3ABiR4WBM5nMdwpl83I#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=41 style='mso-height-source:userset;height:30.5pt'>
@@ -1193,8 +1193,8 @@ tags will be replaced.-->
   10, 11:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
-  &quot;Leveraging Django Views and Permissions at Object-Level: The gist of an
-  envisioned solution for managing agricultural datasets,&quot; Diego Menéndez,
+  &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-5">Leveraging Django Views and Permissions at Object-Level: The gist of an
+  envisioned solution for managing agricultural datasets</a>,&quot; Diego Menéndez,
   Danying Shao - <a href="https://zoom.us/meeting/register/tJMtd--hqTooHtKXAz0AIVo6qx-3EJUwVeZZ#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1202,8 +1202,8 @@ tags will be replaced.-->
   11, 8:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial: &quot;</font><font
-  class="font86507">Research Data Automation with Globus Flows and Globus
-  Compute,&quot; Lee Liming - <a href="https://zoom.us/meeting/register/tJMkfumgqjgtH9WoOoVRPLQZXrhI4AXqW6fN#/registration" target="_blank">Register Now</a></font></td>
+  class="font86507"><a href="{{ site.baseurl }}/program/tutorials/#tutorial-1">Research Data Automation with Globus Flows and Globus
+  Compute</a>,&quot; Lee Liming - <a href="https://zoom.us/meeting/register/tJMkfumgqjgtH9WoOoVRPLQZXrhI4AXqW6fN#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl996507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
@@ -1369,13 +1369,13 @@ tags will be replaced.-->
   <td height=47 class=xl736507 width=108 style='height:35.0pt;width:81pt'>10:30
   AM</td>
   <td colspan=2 class=xl826507 width=302 style='width:227pt'>BoFs 1A<font
-  class="font66507">: Better Scientific Software Fellowship Community, </font><font
+  class="font66507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-1a">Better Scientific Software Fellowship Community</a>, </font><font
   class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl846507 width=284 style='border-left:none;width:213pt'>Working
   Group Fair, <font class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">BoFs 1B</font><font
-  class="font56507">: RSEs in domain-specific ecosystems, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-1b">RSEs in domain-specific ecosystems</a>, </font><font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1441,7 +1441,7 @@ tags will be replaced.-->
   class="font156507">Taos</font></td>
   <td colspan=2 rowspan=3 class=xl806507 width=358 style='border-right:.5pt solid white;
   width:269pt'><font class="font146507">BoFs 2:</font><font class="font76507">
-  Teaching Research Software Engineering, </font><font class="font156507">Cochiti</font></td>
+  <a href="{{ site.baseurl }}/program/bofs/#bofs-2">Teaching Research Software Engineering</a>, </font><font class="font156507">Cochiti</font></td>
  </tr>
  <tr height=23 style='mso-height-source:userset;height:17.5pt'>
  </tr>
@@ -1494,8 +1494,8 @@ tags will be replaced.-->
   Access Microtalks (RAM)<font class="font66507">, </font><font
   class="font106507">Ballroom A</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
-  class="font126507">BoFs 3</font><font class="font56507">: Brainstorming
-  Strategies for Cultivating Successful and Collaborative RSE Teams, </font><font
+  class="font126507">BoFs 3</font><font class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-3">Brainstorming
+  Strategies for Cultivating Successful and Collaborative RSE Teams</a>, </font><font
   class="font136507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 4</font><font
@@ -1524,12 +1524,12 @@ tags will be replaced.-->
   <td rowspan=2 height=152 class=xl736507 width=108 style='height:114.0pt;
   width:81pt'>1:00 PM</td>
   <td colspan=2 rowspan=2 class=xl786507 width=302 style='width:227pt'><font
-  class="font116507">BoFs 4A</font><font class="font66507">: Exploring the
+  class="font116507">BoFs 4A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-4a">Exploring the
   Potential Impact of Advancements in Artificial Intelligence on the RSE
-  Profession, </font><font class="font106507">Hopi/Tewa</font></td>
+  Profession</a>, </font><font class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
-  class="font126507">BoFs 4B</font><font class="font56507">: Mapping Open
-  Source Science, </font><font class="font136507">Taos</font></td>
+  class="font126507">BoFs 4B</font><font class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-4b">Mapping Open
+  Source Science</a>, </font><font class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 5</font><font
   class="font56507">: RSE in Action!, </font><font class="font136507">Cochiti</font></td>
@@ -1554,12 +1554,12 @@ tags will be replaced.-->
   <td rowspan=2 height=259 class=xl736507 width=108 style='height:194.0pt;
   width:81pt'>3:00 PM</td>
   <td colspan=2 rowspan=2 class=xl826507 width=302 style='width:227pt'>BoFs 5A<font
-  class="font66507">: Navigating the Remote Landscape: Working Effectively with
-  Stakeholders, </font><font class="font106507">Hopi/Tewa</font></td>
+  class="font66507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-5a">Navigating the Remote Landscape: Working Effectively with
+  Stakeholders</a>, </font><font class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
-  class="font126507">BoFs 5B</font><font class="font56507">: Sharing lessons
+  class="font126507">BoFs 5B</font><font class="font56507">: <a href="{{ site.baseurl }}/program/bofs/#bofs-5b">Sharing lessons
   learned on the challenges of fielding research software proof-of-concepts /
-  prototypes in Department of Defense (DoD) and other Government environments, </font><font
+  prototypes in Department of Defense (DoD) and other Government environments</a>, </font><font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 6</font><font
