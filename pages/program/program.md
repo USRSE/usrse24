@@ -1250,35 +1250,35 @@ tags will be replaced.-->
  </tr>
  <tr height=253 style='mso-height-source:userset;height:189.5pt'>
   <td colspan=2 height=253 class=xl786507 width=302 style='height:189.5pt;
-  width:227pt'>A Brief Introduction to HPC Carpentry<br>
+  width:227pt'>- A Brief Introduction to HPC Carpentry<br>
     Lessons Learned While Building an Effective and Equitable Internship
   Program<br>
-    Student Research Software Engineers: Insights from Macro and Micro
+    - Student Research Software Engineers: Insights from Macro and Micro
   Perspectives<br>
-    Creating a Curriculum for Curating Code<br>
-    Experiences in Teaching Prospective Research Software Engineers at the
+    - Creating a Curriculum for Curating Code<br>
+    - Experiences in Teaching Prospective Research Software Engineers at the
   University of Chicago<br>
-    Foundational competencies of an RSE: state of the project and what comes
+    - Foundational competencies of an RSE: state of the project and what comes
   next</td>
-  <td colspan=2 class=xl846507 width=284 style='border-left:none;width:213pt'>Leveraging
+  <td colspan=2 class=xl846507 width=284 style='border-left:none;width:213pt'>- Leveraging
   LLMs for Effective Coding<br>
-    Bridging the Valley of Death: From Research to Deployment in AI/ML<br>
-    Enhancing the application of large language models with retrieval-augmented
+    - Bridging the Valley of Death: From Research to Deployment in AI/ML<br>
+    - Enhancing the application of large language models with retrieval-augmented
   generation for a research community<br>
-    An Empirical Survey of GitHub Repositories at Research Universities<br>
-    Decentralized collaboration for the AutoRA Python package with a functional
+    - An Empirical Survey of GitHub Repositories at Research Universities<br>
+    - Decentralized collaboration for the AutoRA Python package with a functional
   paradigm and namespace packages</td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
-  border-left:none;width:269pt'>User-Centric Science: Unveiling the Power of
+  border-left:none;width:269pt'>- User-Centric Science: Unveiling the Power of
   Design at NCSA<br>
-    Containers, structured programming and encapsulation - what would Djikstra
+    - Containers, structured programming and encapsulation - what would Djikstra
   think<br>
-    Building Bridges and Breaking Barriers: How Research Software Engineers and
+    - Building Bridges and Breaking Barriers: How Research Software Engineers and
   Software Engineering Researchers Can Partner for Success<br>
-    Analyzing the Security Culture of Research Software Engineers<br>
-    A Mature RSE Capability Examined: Space Analysis and Applications at Johns
+    - Analyzing the Security Culture of Research Software Engineers<br>
+    - A Mature RSE Capability Examined: Space Analysis and Applications at Johns
   Hopkins APL<br>
-    Future Beyond Borders: Transforming the Research Software through
+    - Future Beyond Borders: Transforming the Research Software through
   Internationalization, Localization and Translation</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1401,23 +1401,23 @@ tags will be replaced.-->
  </tr>
  <tr height=210 style='mso-height-source:userset;height:157.5pt'>
   <td colspan=2 height=210 class=xl786507 width=302 style='height:157.5pt;
-  width:227pt'>Software Resurrection: Discovering Programming Pearls by Showing
+  width:227pt'>- Software Resurrection: Discovering Programming Pearls by Showing
   Modernity to Historical Software<br>
-    Towards Sustainable and Discoverable Computational Models: The Engineering
+    - Towards Sustainable and Discoverable Computational Models: The Engineering
   Common Model Framework (ECMF) Project at Sandia<br>
-    Fortran at NERSC: A Cycle of Support<br>
-    Preferred Practices Through a Project Template<br>
-    Defining, Measuring, and Enhancing Sustainability in Scientific Software:
+    - Fortran at NERSC: A Cycle of Support<br>
+    - Preferred Practices Through a Project Template<br>
+    - Defining, Measuring, and Enhancing Sustainability in Scientific Software:
   Insights from CORSA</td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
-  border-left:none;width:269pt'>Do good: strategies for leading an inclusive
+  border-left:none;width:269pt'>- Do good: strategies for leading an inclusive
   collaborative data science and RSE teams<br>
-    The UCAR SEA: Adapting a legacy employee resource group into an RSE
+    - The UCAR SEA: Adapting a legacy employee resource group into an RSE
   community of practice<br>
-    The Long Tale of NCSA’s RSEs<br>
-    The Creation of an RSE Career Path at Princeton University<br>
-    Long-time listener, first-time caller: My RSE Identity Journey<br>
-    The long and winding road: Building and growing a research engineering team
+    - The Long Tale of NCSA’s RSEs<br>
+    - The Creation of an RSE Career Path at Princeton University<br>
+    - Long-time listener, first-time caller: My RSE Identity Journey<br>
+    - The long and winding road: Building and growing a research engineering team
   at the UK's national institute for data science and AI</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1446,15 +1446,15 @@ tags will be replaced.-->
  </tr>
  <tr height=219 style='mso-height-source:userset;height:164.5pt'>
   <td colspan=2 height=219 class=xl786507 width=302 style='height:164.5pt;
-  width:227pt'>Lab Dragon: An electronic Laboratory<br>
-    Using Radicals to Empower Budding Computational Chemists<br>
-    Software testing in a community-driven web-based analysis platform for life
+  width:227pt'>- Lab Dragon: An electronic Laboratory<br>
+    - Using Radicals to Empower Budding Computational Chemists<br>
+    - Software testing in a community-driven web-based analysis platform for life
   science research<br>
-    Honeycomb: a template for reproducible psychophysiological tasks for
+    - Honeycomb: a template for reproducible psychophysiological tasks for
   clinic, laboratory, and home use<br>
-    Developing a Cloud First Personalized Ecological Momentary Assessments
+    - Developing a Cloud First Personalized Ecological Momentary Assessments
   Delivery Tool<br>
-    A Rising Tide: One model for improving research software use in the life
+    - A Rising Tide: One model for improving research software use in the life
   sciences</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1503,14 +1503,14 @@ tags will be replaced.-->
  </tr>
  <tr height=197 style='mso-height-source:userset;height:148.0pt'>
   <td colspan=2 height=197 class=xl846507 width=358 style='border-right:.5pt solid white;
-  height:148.0pt;border-left:none;width:269pt'>Leveraging CVMFS for Scaling and
+  height:148.0pt;border-left:none;width:269pt'>- Leveraging CVMFS for Scaling and
   Optimizing JupyterHub-based Gateways<br>
-    From Core to Atuin: Citing Software All The Way Down The Stack<br>
-    Reproducing notebooks without (too much) effort: a simple but effective
+    - From Core to Atuin: Citing Software All The Way Down The Stack<br>
+    - Reproducing notebooks without (too much) effort: a simple but effective
   automated workflow for US-RSE’24 and beyond using Binder and GitHub
   Actions<br>
-    Building a composable stack for research cyberinfrastructure<br>
-    Community Resilience Research Using IN-CORE - Case Study with 2011 Tornado
+    - Building a composable stack for research cyberinfrastructure<br>
+    - Community Resilience Research Using IN-CORE - Case Study with 2011 Tornado
   Event at Joplin, MO</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
@@ -1535,13 +1535,13 @@ tags will be replaced.-->
  </tr>
  <tr height=128 style='mso-height-source:userset;height:96.0pt'>
   <td colspan=2 height=128 class=xl846507 width=358 style='border-right:.5pt solid white;
-  height:96.0pt;border-left:none;width:269pt'>Harnessing the power of HPC from
+  height:96.0pt;border-left:none;width:269pt'>- Harnessing the power of HPC from
   the comfort of R<br>
-    Population Modeling Workflow in OpenStack Cloud<br>
-    PROBE4RSE: Provenance for Replay OBservation Engine for Research Software
+    - Population Modeling Workflow in OpenStack Cloud<br>
+    - PROBE4RSE: Provenance for Replay OBservation Engine for Research Software
   Engineers<br>
-    Codefair: Your Personal Assistant for Developing FAIR Software<br>
-    Hawai'i Climate Data Portal API Demo</td>
+    - Codefair: Your Personal Assistant for Developing FAIR Software<br>
+    - Hawai'i Climate Data Portal API Demo</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl746507 width=108 style='height:20.0pt;width:81pt'>2:30
@@ -1567,18 +1567,18 @@ tags will be replaced.-->
  </tr>
  <tr height=235 style='mso-height-source:userset;height:176.0pt'>
   <td colspan=2 height=235 class=xl846507 width=358 style='border-right:.5pt solid white;
-  height:176.0pt;border-left:none;width:269pt'>Importance of Science Gateway
+  height:176.0pt;border-left:none;width:269pt'>- Importance of Science Gateway
   Frameworks for Research and Their Benefits for Research Software
   Engineers<br>
-    Transforming Academic Publishing: A Jupyter Notebook-Based Submission
+    - Transforming Academic Publishing: A Jupyter Notebook-Based Submission
   Ecosystem implemented for SEA ISS Conference for Enhanced Open Science and
   Reproducibility<br>
-    Documenting Research Artifacts for Reproducibility<br>
-    The KBase Narrative: Reproducible, FAIR data access through Jupyter
+    - Documenting Research Artifacts for Reproducibility<br>
+    - The KBase Narrative: Reproducible, FAIR data access through Jupyter
   notebooks<br>
-    From bench to desktop: a case study in enabling reproducible data analysis
+    - From bench to desktop: a case study in enabling reproducible data analysis
   with RainFlow<br>
-    Information Security Engineering and Research Software Engineering: Shared
+    - Information Security Engineering and Research Software Engineering: Shared
   Goals, Shared Approaches, and Shared Success</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
