@@ -1292,16 +1292,16 @@ tags will be replaced.-->
   <td height=67 class=xl756507 width=108 style='height:50.0pt;width:81pt'>1:00
   PM</td>
   <td colspan=2 class=xl1046507 width=302 style='width:227pt'><font
-  class="font146507">Workshop 1</font><font class="font76507">: &quot;Research
-  Data Automation with Globus Flows and Globus Compute,&quot; Lee Liming and
+  class="font146507">Workshop 1</font><font class="font76507">: &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-1">Research
+  Data Automation with Globus Flows and Globus Compute</a>,&quot; Lee Liming and
   Steve Turoscy, </font><font class="font156507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl1076507 width=284 style='border-left:none;width:213pt'><font
-  class="font126507">Workshop 2</font><font class="font56507">: &quot;Community
-  discussion: teachingRSE project,&quot; Jan Philipp Thiele, </font><font
+  class="font126507">Workshop 2</font><font class="font56507">: &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-2">Community
+  discussion: teachingRSE project</a>,&quot; Jan Philipp Thiele, </font><font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl1086507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'>Workshop 3<font class="font56507">:
-  &quot;Emerging as a Team Leader through Cultural Challenges,&quot; Elaine M.
+  &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-3">Emerging as a Team Leader through Cultural Challenges</a>,&quot; Elaine M.
   Raybourn, Angela Herring, and Ryan Shaw, </font><font class="font136507">Cochiti</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.5pt'>
@@ -1392,8 +1392,8 @@ tags will be replaced.-->
   Sustainability and Legacy Code, </font><font class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
   class="font126507">Workshop 4</font><font class="font56507">:
-  &quot;Establishing RSE Programs - From early stage formalization to mature
-  models,&quot; Ian Cosden, Sandra Gesing, and Adam Rubens, </font><font
+  &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-4">Establishing RSE Programs - From early stage formalization to mature
+  models</a>,&quot; Ian Cosden, Sandra Gesing, and Adam Rubens, </font><font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 2B</font><font
