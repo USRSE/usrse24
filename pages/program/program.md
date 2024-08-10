@@ -1597,6 +1597,12 @@ tags will be replaced.-->
 <!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
 <!----------------------------->
 
+
+
+</body>
+
+</html>
+
 <h2 id="accepted-submissions">Accepted Submissions</h2>
 
 <ul>
@@ -1608,11 +1614,5 @@ tags will be replaced.-->
   <li><a href="{{ site.baseurl }}/program/tutorials/">Tutorials</a></li>
   <li><a href="{{ site.baseurl }}/program/workshops/">Workshops</a></li>
 </ul>
-
-</body>
-
-</html>
-
-
 
 
