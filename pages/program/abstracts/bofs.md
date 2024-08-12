@@ -8,6 +8,7 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a name="bofs-2"></a>
 ## Teaching Research Software Engineering
 
 _Julia Damerow, Jeffrey C. Carver, Jason Yalim_
@@ -52,6 +53,7 @@ engineering?
 
 ---
 
+<a name="bofs-4b"></a>
 ## Mapping Open Source Science
 
 _Jonathan Starr_
@@ -68,6 +70,7 @@ ecosystem.
 
 ---
 
+<a name="bofs-4a"></a>
 ## Exploring the Potential Impact of Advancements in Artificial Intelligence on the RSE Profession
 
 _David Luet_
@@ -97,6 +100,7 @@ trained on your open-source code published under a GPL license? Before the confe
 
 ---
 
+<a name="bofs-3"></a>
 ## Brainstorming Strategies for Cultivating Successful and Collaborative RSE Teams
 
 _Abbey Roelofs and Kristina Riemer_
@@ -126,6 +130,7 @@ cultivating successful RSE teams.
 
 ---
 
+<a name="bofs-5a"></a>
 ## Navigating the Remote Landscape: Working Effectively with Stakeholders
 
 _Troy Comi_
@@ -165,6 +170,7 @@ their stakeholders are local or globally distributed.
 
 ---
 
+<a name="bofs-1a"></a>
 ## Better Scientific Software Fellowship Community
 
 _Elsa Gonsiorowski, Erik Palmer and Mary Ann Leung_
@@ -189,6 +195,7 @@ serve to amplify the connections between our communities.
 
 ---
 
+<a name="bofs-5b"></a>
 ## Sharing lessons learned on the challenges of fielding research software proof-of-concepts / prototypes in Department of Defense (DoD) and other Government environments
 
 _Daniel Strassler_
@@ -204,6 +211,7 @@ environments and how to mitigate them.
 
 ---
 
+<a name="bofs-1b"></a>
 ## RSEs in domain-specific ecosystems
 
 _Julia Damerow, Rebecca Sutton Koeser, Laure Thompson and Jeri E. Wierenga_
