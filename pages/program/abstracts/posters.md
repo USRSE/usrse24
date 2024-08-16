@@ -1388,6 +1388,7 @@ set_last_modified: true
                         RSEs to support their threat modeling efforts. This poster allows RSEs to learn more about
                         threat
                         modeling and our work. We invite participants to provide feedback to guide our future work.</p>
+                </ol>
             </div>
         </div>
     </div>
