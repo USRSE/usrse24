@@ -9,4 +9,6 @@ ignore-hidden = false
 extend-ignore-re = [
     "Brain tailoRed stImulation protocoL",
     "Vas Vasiliadis",
+    "SER",
+    "Mey",
 ]
