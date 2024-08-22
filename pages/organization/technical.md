@@ -29,8 +29,8 @@ set_last_modified: true
 
 - **Douglas Friedel**
   - National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
-- **Vishwasrao Salunkhe**
-  - Wolters Kluwer Health
+- **Anderson Chauphan**
+  - Sandia National Laboratories
 
 ### Tutorials
 
