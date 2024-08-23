@@ -1232,6 +1232,7 @@ tags will be replaced.-->
   width:81pt'>9:00 AM</td>
   <td colspan=6 class=xl936507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font146507">Keynote:</font><font class="font76507">
+  <a href="{{ site.baseurl }}/program/keynotes/#simon">Research Software Engineers: where it started and where it’s going</a>,
   Simon Hettrick, </font><font class="font156507">Ballroom A</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
