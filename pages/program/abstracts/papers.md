@@ -8,6 +8,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a href="https://zenodo.org/communities/usrse24/records?q=&f=resource_type%3Apublication%2Binner%3Apublication-conferencepaper&l=list&p=1&s=10&sort=newest" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to all papers">View Published</a>
+
 ## Enhancing the application of large language models with retrieval-augmented generation for a research community
 
 _Juan José García Mesa, Gil Speyer_
@@ -20,6 +22,8 @@ tasks such as synthesizing extensive questionnaire data, efficiently searching t
 and extracting detailed information from multiple sources. Our implementation leverages open-source libraries,
 a centralized repository of pre-trained models, and high-performance computing resources to provide
 researchers with robust, private, and scalable solutions.
+
+<a href="https://zenodo.org/records/13368208" class="btn btn-light btn-lg" target="_blank" role="button" alt="Button to resource">Read More</a>
 
 ---
 
@@ -52,6 +56,8 @@ further posit that 3,300 RSE repositories with communities and a link to a resea
 dying, and thus may benefit from sustainability support. Finally, across all RSE projects linked to a research
 university, we empirically find the top repository languages are Python, C++, and Jupyter Notebook.
 
+<a href="https://zenodo.org/records/13368204" class="btn btn-light btn-lg" target="_blank" role="button" alt="Button to resource">Read More</a>
+
 ---
 
 ## Preferred Practices Through a Project Template
@@ -68,5 +74,7 @@ scientists, we have created a project template for Python projects. This templat
 discussing the implementation of various decisions. This paper will succinctly delineate the components that
 constitute an effective project template and elucidate the advantages of consolidating preferred practices in
 such a manner.
+
+<a href="https://zenodo.org/records/13357328" class="btn btn-light btn-lg" target="_blank" role="button" alt="Button to resource">Read More</a>
 
 ---
