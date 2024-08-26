@@ -8,6 +8,8 @@ menubar_toc: true
 set_last_modified: true
 ---
 
+<a href="https://zenodo.org/communities/usrse24/records?q=&f=resource_type%3Asoftware%2Binner%3Asoftware-computationalnotebook&l=list&p=1&s=10&sort=newest" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to all notebooks">View Published</a>
+
 ## Community Resilience Research Using IN-CORE - Case Study with 2011 Tornado Event at Joplin, MO
 
 _Chen Wang, Jong Lee, Chris Navarro, Rashmil Panchani, Yong Wook Kim, Y-Lan Yang, Rob Kooper, Vismayak Mohanarajan, Wanting Lisa Wang, Lisa Watkins_
@@ -20,6 +22,8 @@ The notebook contains the following analyses: structural damage analysis on buil
 
 Lastly, the core logic of this notebook is used to power the IN-CORE Community Resilience Playbook, an interactive guide for community resilience planning. It has been used in workshops with the city planners and government officials, making it a valuable resource for resilience planning.
 
+<a href="https://zenodo.org/records/13366089" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to the notebook">Read More</a>
+
 ------
 
 ## Using Radicals to Empower Budding Computational Chemists
@@ -28,6 +32,8 @@ _Jacob States, Isaac Spackman, Shubham Vyas_
 
 The integration of computational physical chemistry into undergraduate laboratories presents a unique opportunity for collaboration with the research software engineering field. To promote more efficient computational workflows and foster engagement among budding programmers in computational modeling, we present this notebook investigating small molecules with unpaired electrons (radicals). The CF3 radical has been extensively explored in the chemical literature owing to its importance in ozone depletion from CFCs (chlorofluorocarbons) and its unusual geometric structure which deviates from the planar structure of the CH3 radical, despite the similar size of the fluorine atom and the hydrogen atom. Exploring trends along chemical groups is commonplace in the chemical literature, and as such we have created a notebook demonstrating the facile preparation and analysis of a simple experiment substituting the F atoms in the CF3 radical for other halogens in the same group (Cl, Br, I) in a combinatorial fashion. From a single excel sheet, input files for the quantum modeling software ORCA can be reproducibly generated. Upon completion of the requested calculations, the meaningful data is systematically extracted from the produced log files. This method contrasts with traditional practices in undergraduate labs in which students manually construct input files and scroll through log files to copy/paste data and demonstrates a more efficient and reproducible alternative. The notebook not only serves as an educational tool but also acquaints future research software engineers with the specialized software developed by computational chemists.
 
+<a href="https://zenodo.org/records/13368429" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to the notebook">Read More</a>
+
 ------
 
 ## Hawaiʻi Climate Data Portal API Demo
@@ -35,5 +41,7 @@ The integration of computational physical chemistry into undergraduate laborator
 _Jared McLean, Sean Cleveland_
 
 The Hawaiʻi Climate Data Portal (HCDP) (available <https://www.hawaii.edu/climate-data-portal/data-portal/>) provides access to 30+ years of climatological data collected from sensor stations around the state of Hawaiʻi and gridded data products derived from these values. The HCDP is a publicly available web application and is backed by an API that is accessible to researchers on request. This notebook demonstrates some of the abilities and usage of the HCDP API and the data provided by it. The notebook will show the user how to retrieve and map sensor station metadata and values, retrieve gridded data products, produce timeseries of station and gridded data, and generate data packages for large amounts of data that can be downloaded directly or sent to the user’s email.
+
+<a href="https://zenodo.org/records/13308991" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to the notebook">Read More</a>
 
 ------
