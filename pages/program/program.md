@@ -1158,6 +1158,33 @@ tags will be replaced.-->
  9332;width:201pt'>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl1006507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
+  height:20.0pt;width:790pt'>Sep 16 - Sep 20 - Online</td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td height=27 class=xl676507 width=108 style='height:20.0pt;width:81pt'>Sep
+  16, 10:00 AM</td>
+  <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
+  width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
+  &quot;So this is your first conference&quot; - <a href="https://zoom.us/meeting/register/tJYld-qorj4rG9cbG2jbYCKKz8q7DqclD47l#/registration" target="_blank">Register Now</a></font></td>
+ </tr>
+ <tr height=39 style='mso-height-source:userset;height:29.5pt'>
+  <td height=39 class=xl716507 width=108 style='height:29.5pt;width:81pt'>Sep
+  18, 12:00 PM</td>
+  <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
+  width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
+  &quot;What to do in ABQquot; -
+  <a href="https://zoom.us/meeting/register/tJEqdeipqTwtEtRqMT1L2CD4ZK9dBOxbF0TK#/registration" target="_blank">Register Now</a></font></td>
+ </tr>
+ <tr height=41 style='mso-height-source:userset;height:30.5pt'>
+  <td height=41 class=xl716507 width=108 style='height:30.5pt;width:81pt'>Sep
+  20, 10:00 AM</td>
+  <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
+  width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
+  &quot;RSE challenges in industry, government, and academia: Birds of a feather&quot;
+  - <a href="https://zoom.us/meeting/register/tJwofuCsrT8qGNSCkBb5XlKv9mPI0H6r08N3#/registration" target="_blank">Register Now</a></font></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.0pt'>
+  <td colspan=7 height=27 class=xl1006507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
   height:20.0pt;width:790pt'>Oct 7 - Oct 11 - Online</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
