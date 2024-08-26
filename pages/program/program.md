@@ -1172,7 +1172,7 @@ tags will be replaced.-->
   18, 12:00 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
-  &quot;What to do in ABQquot; -
+  &quot;What to do in ABQ&quot; -
   <a href="https://zoom.us/meeting/register/tJEqdeipqTwtEtRqMT1L2CD4ZK9dBOxbF0TK#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=41 style='mso-height-source:userset;height:30.5pt'>
