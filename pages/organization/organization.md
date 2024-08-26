@@ -39,8 +39,10 @@ set_last_modified: true
 
 ### Student Chairs
 
+- Ayush Chaturvedi, Washington University in St. Louis
+- Jamil Gafur, University of Iowa
 - Daniel Howard, National Center for Atmospheric Research
-- Shubham Gaikwad, San Jose State University
+- Yilin Xia, University of Illinois Urbana-Champaign
 
 ### Technical Program Chairs
 
