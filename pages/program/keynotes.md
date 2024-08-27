@@ -52,18 +52,54 @@ and every role that makes research possible.
 
 ------
 
-<!--Remove this when information is received...
-
 <a name="sandra"></a>
-## Title TBA
+## US-RSE: Together We Grow Strong RSE Careers and a Thriving Community
 
 <img src="{{ site.baseurl }}/assets/img/SandraGesing.png" alt="Sandra Gesing, US-RSE and SDSC" style="float:left; padding:1em; width:350px">
 
-TBA
+In recent years, the scientific community has increasingly acknowledged the
+essential contributions of Research Software Engineers (RSEs) to accelerating
+scientific discovery. This recognition has led to significant advancements,
+including the establishment of numerous RSE associations worldwide. While
+these developments are encouraging, there remains the need for well-defined
+career paths and incentives to fully support RSEs and their vital role in research.
+
+To address this challenge, a multifaceted approach is crucial. This talk will
+explore how the US-RSE community is working to meet RSEs, researchers, and
+educators where they are, fostering a collaborative environment that supports
+the growth of RSE careers and the development of a thriving RSE community.
+We will discuss the critical role of RSEs in driving research and computational
+activities, as well as the importance of advocating for a cultural shift that
+values and recognizes the contributions of RSEs. We promote equity and belonging
+within the RSE community to ensure that everyone has equal opportunities to
+succeed. Looking ahead, we are committed to expand our collaborations and
+strengthen partnerships with academic institutions, national laboratories,
+industry and funding bodies to create new opportunities for RSEs.
+
+By working together and growing our financial sustainability as an organization,
+we can create a future where RSEs are valued and empowered to make a significant
+impact on scientific research.
 
 
 ### Sandra Gesing
 
-TBA
-
-Also remove this...-->
+Sandra Gesing is the inaugural Executive Director of the US Research Software
+Engineer Association (US-RSE) and a Senior Researcher at the San Diego Supercomputer
+Center (SDSC). Her research focuses on science gateways, computational workflows
+as well as distributed and parallel computing. She is especially interested
+in sustainability of research software, usability of computational methods
+and reproducibility of research results. Sustainability of research software
+has many facets and she advocates for improving career paths for research
+software engineers and for incentivizing their work via means beyond the
+traditional academic rewarding system. Before her positions at US-RSE and
+SDSC, she was a senior research scientist at the Discovery Partners Institute
+(DPI), University of Illinois System, Chicago and she was an associate
+research professor at the University of Notre Dame, Indiana, US. Before
+she moved to the US, she was a research associate at the University of
+Edinburgh, UK, and at the University of Tübingen, Germany. Additionally, she
+has perennial experience as a project manager and system developer in industry
+in the US and Germany. As head of a system programmer group, she led long-term
+software projects. She received her Master’s degree in computer science from
+extramural studies at the FernUniversität Hagen, Germany, and her PhD in
+computer science from the University of Tübingen, Germany. More details can be
+found at [http://sandra-gesing.com/](http://sandra-gesing.com/).
