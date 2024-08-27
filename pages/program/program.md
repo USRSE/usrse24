@@ -1165,7 +1165,8 @@ tags will be replaced.-->
   16, 10:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
-  &quot;So this is your first conference&quot; - <a href="https://zoom.us/meeting/register/tJYld-qorj4rG9cbG2jbYCKKz8q7DqclD47l#/registration" target="_blank">Register Now</a></font></td>
+  &quot;So this is your first conference&quot; - 
+  <a href="https://zoom.us/meeting/register/tJYld-qorj4rG9cbG2jbYCKKz8q7DqclD47l#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=39 style='mso-height-source:userset;height:29.5pt'>
   <td height=39 class=xl716507 width=108 style='height:29.5pt;width:81pt'>Sep
@@ -1274,7 +1275,8 @@ tags will be replaced.-->
   <td colspan=2 class=xl786507 width=302 style='width:227pt'><font
   class="font116507">Session 1A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1a">RSE Pedagogy</a>, </font><font
   class="font106507">Hopi/Tewa</font></td>
-  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'>Session 1B<font class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font
+  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'>Session 1B<font class="font56507">:
+  <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 1C</font><font
@@ -1399,6 +1401,7 @@ tags will be replaced.-->
   AM</td>
   <td colspan=6 class=xl936507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font146507">Keynote:</font><font class="font76507">
+  <a href="{{ site.baseurl }}/program/keynotes/#sandra">US-RSE: Together We Grow Strong RSE Careers and a Thriving Community</a>,
   Sandra Gesing, </font><font class="font156507">Ballroom A</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
