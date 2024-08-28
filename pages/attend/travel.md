@@ -54,6 +54,8 @@ As per the rules:
 With the sponsorship of various organizations such as the
 [National Science Foundation](https://www.nsf.org/) and the
 [San Diego Supercomputer Center](https://www.sdsc.edu/) (SDSC),
+US-RSE'24 is happy to provide dependent care financial support through
+the Conference Support Grants Program.
 The goal of this grant program is to increase the diversity of the
 attendees of US-RSE’24 in regards to traditional (typically
 under-represented groups in tech) as well as non-traditional
