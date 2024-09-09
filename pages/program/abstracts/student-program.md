@@ -9,7 +9,7 @@ set_last_modified: true
 ---
 
 ## Managing Your Digital Presence as a Research Software Engineer
-Pre-confernce workshop (TBD Register Here)
+Pre-conference workshop (TBD Register Here)
 Friday, September 27th 12:00 to 1:00 PM
 
 In today’s digital landscape, your online presence is more than just a reflection 
