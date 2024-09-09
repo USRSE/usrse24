@@ -40,8 +40,7 @@ Wednesday, October 16th 12:00 to 1:00 PM
  
 Mentees and mentors will have a dedicated area to take lunch and converse
 during the Wednesday lunch hour. Look for the labeled tables for mentees 
-and mentors. Check your email for the student program details to find your
-seating assignment.
+and mentors. Check your email for more information.
 
 ## Visit to [UNM Center for Advanced Research Computing](https://carc.unm.edu/) (CARC) 
 Wednesday, October 16th 1:00 PM to 2:15pm (Transportation provided) 
