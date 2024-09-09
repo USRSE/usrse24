@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Program
-description: Programming serving students during USRSE24
+description:
 menubar: program
 permalink: program/student-program/
 menubar_toc: true
