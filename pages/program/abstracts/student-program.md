@@ -13,7 +13,7 @@ Pre-conference workshop (TBD Register Here)
 Friday, September 27th 12:00 to 1:00 PM
 
 In today’s digital landscape, your online presence is more than just a reflection 
-of your professional identity—it’s a powerful tool that can propel your career forward. 
+of your professional identity - it’s a powerful tool that can propel your career forward. 
 This workshop is tailored for early career research software engineers who are eager to 
 establish and enhance their digital footprint. Through practical guidance and community 
 led discussions, participants will learn how to create and curate a personal website, 
