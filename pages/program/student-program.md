@@ -11,7 +11,7 @@ set_last_modified: true
 <a name="student-workshop"></a>
 ## Managing Your Digital Presence as a Research Software Engineer
 
-Friday, September 27th, 12:00 to 1:00 PM MT
+Friday, September 27th, 12:00 to 1:00 PM
 
 Pre-conference workshop - [Register Here](https://zoom.us/meeting/register/tJIof-2rqD0oHtJfCfZU80dkQvf5zFKmXNF8)
 
