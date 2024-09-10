@@ -1176,13 +1176,21 @@ tags will be replaced.-->
   &quot;What to do in ABQ&quot; -
   <a href="https://zoom.us/meeting/register/tJEqdeipqTwtEtRqMT1L2CD4ZK9dBOxbF0TK#/registration" target="_blank">Register Now</a></font></td>
  </tr>
+  <tr height=41 style='mso-height-source:userset;height:30.5pt'>
+   <td height=41 class=xl716507 width=108 style='height:30.5pt;width:81pt'>Sep
+   20, 10:00 AM</td>
+   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
+   width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
+   &quot;RSE challenges in industry, government, and academia: Birds of a feather&quot;
+   - <a href="https://zoom.us/meeting/register/tJwofuCsrT8qGNSCkBb5XlKv9mPI0H6r08N3#/registration" target="_blank">Register Now</a></font></td>
+  </tr>
  <tr height=41 style='mso-height-source:userset;height:30.5pt'>
   <td height=41 class=xl716507 width=108 style='height:30.5pt;width:81pt'>Sep
-  20, 10:00 AM</td>
+  27, 10:00 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
-  width:709pt'><font class="font96507">Infosession</font><font class="font86507">:
-  &quot;RSE challenges in industry, government, and academia: Birds of a feather&quot;
-  - <a href="https://zoom.us/meeting/register/tJwofuCsrT8qGNSCkBb5XlKv9mPI0H6r08N3#/registration" target="_blank">Register Now</a></font></td>
+  width:709pt'><font class="font96507">Student Program Infosession</font><font class="font86507">:
+  &quot;<a href="{{ site.baseurl }}/program/student-program/#student-workshop">Managing Your Digital Presence as a Research Software Engineer</a>&quot;
+  - <a href="https://zoom.us/meeting/register/tJIof-2rqD0oHtJfCfZU80dkQvf5zFKmXNF8#/registration" target="_blank">Register Now</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl1006507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
@@ -1384,7 +1392,7 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>6:30
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Mentor/Mentee Program Ice Cream Social, TBD</td>
+  width:709pt'><a href="{{ site.baseurl }}/program/student-program/#ice-cream">Mentor/Mentee Program Ice Cream Social</a>, Ballroom A</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl916507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
@@ -1427,7 +1435,7 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>12:00
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Lunch</td>
+  width:709pt'>Lunch, <a href="{{ site.baseurl }}/program/student-program/#mentor-lunch">Mentor/Mentee Lunch</a>, followed by <a href="{{ site.baseurl }}/program/student-program/#carc-visit">student visit to CARC</a></td>
  </tr>
  <tr height=44 style='mso-height-source:userset;height:33.0pt'>
   <td rowspan=2 height=254 class=xl736507 width=108 style='height:190.5pt;
