@@ -32,7 +32,7 @@ poster session.
 Tuesday, October 15th 6:00 to 8:00 PM 
  
 Wrap up the first conference day experience by joining us at 
-end of day poster session. This is a great opportunity to meet 
+the end of the poster session. This is a great opportunity to meet 
 fellow students and mentors, while also checking in about sessions
 that day and future sessions.
 
