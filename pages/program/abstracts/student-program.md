@@ -43,11 +43,11 @@ Mentees and mentors will have a dedicated area to take lunch and converse
 during the Wednesday lunch hour. Look for the labeled tables for mentees 
 and mentors. Check your email for more information.
 
-## Visit to CARC - [UNM Center for Advanced Research Computing](https://carc.unm.edu/)
+## Visit to University of New Mexico CARC - Center for Advanced Research Computing
 Wednesday, October 16th 1:00 PM to 2:15pm (Transportation provided) 
  
 Meet outside the conference center to take a trip to the University of New Mexico's
-Center for Advanced Research Computing. Join us as [Matthew Fricke](https://www.cs.unm.edu/directory/faculty-profiles/matthew-fricke.html)
+[Center for Advanced Research Computing](https://carc.unm.edu/). Join us as [Matthew Fricke](https://www.cs.unm.edu/directory/faculty-profiles/matthew-fricke.html)
 and staff at CARC present and tour the computational facilities that serve the academic community.
 CARC is an interdisciplinary community that uses computational resources to create new research insights.
 Learn about the history of research computing and learn about the careers of modern day RSE
