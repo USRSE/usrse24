@@ -9,8 +9,9 @@ set_last_modified: true
 ---
 
 ## Managing Your Digital Presence as a Research Software Engineer
-Pre-conference workshop (TBD Register Here)
 Friday, September 27th 12:00 to 1:00 PM
+
+Pre-conference workshop (TBD Register Here)
 
 In today’s digital landscape, your online presence is more than just a reflection 
 of your professional identity - it’s a powerful tool that can propel your career forward. 
@@ -42,7 +43,7 @@ Mentees and mentors will have a dedicated area to take lunch and converse
 during the Wednesday lunch hour. Look for the labeled tables for mentees 
 and mentors. Check your email for more information.
 
-## Visit to [UNM Center for Advanced Research Computing](https://carc.unm.edu/) (CARC) 
+## Visit to CARC - [UNM Center for Advanced Research Computing](https://carc.unm.edu/)
 Wednesday, October 16th 1:00 PM to 2:15pm (Transportation provided) 
  
 Meet outside the conference center to take a trip to the University of New Mexico's
