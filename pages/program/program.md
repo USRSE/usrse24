@@ -1158,7 +1158,7 @@ tags will be replaced.-->
  9332;width:201pt'>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl1006507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
-  height:20.0pt;width:790pt'>Sep 16 - Sep 20 - Online</td>
+  height:20.0pt;width:790pt'>Sep 16 - Sep 27 - Online</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl676507 width=108 style='height:20.0pt;width:81pt'>Sep
