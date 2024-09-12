@@ -16,6 +16,8 @@ conference.
 
 _Kyle Chard and Yadu Babuji_
 
+Oct 7, 11:00 AM - 2:00 PM (30 minute break)
+
 This tutorial will focus on teaching modern approaches for running code on diverse, remote
 computing resources. As hardware continues to become yet more diverse, it is increasingly
 necessary to be able to effectively make use of remote computing resources. Remote
@@ -29,12 +31,16 @@ and consider possibilities to execute these components in the location in which 
 for example, near data, where specialized resources are available, where environments exist,
 where allocations are available, etc.
 
+<a href="https://zoom.us/meeting/register/tJwkc-iorz0qG9LjZ4bpUvLV3O4Tcz4jEFL-#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
+
 ------
 
 <a name="tutorial-4"></a>
 ## Rapid Prototyping for a Usable React-based Web Application with STRUDEL
 
 _Rajshree Deshmukh, Cody O'Donnell, Lavanya Ramakrishnan_
+
+Oct 7, 3:00 PM - 6:00 PM (30 minute break)
 
 This tutorial will be a hands-on introduction to web application development using STRUDEL, an open source project making it easier for RSEs and domain scientists to build usable user
 interfaces (UIs). Attendees will learn how to go from a UI need, to identifying a Task Flow
@@ -46,12 +52,16 @@ rapidly prototype usable scientific UIs through a simple template-driven system.
 Conference is an ideal venue to introduce these tools because they are designed specifically for
 scientific projects and target a broad range of people involved in web application development.
 
+<a href="https://zoom.us/meeting/register/tJMqd--tqzooHtEtl3ABiR4WBM5nMdwpl83I#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
+
 ------
 
 <a name="tutorial-5"></a>
 ## Leveraging Django Views and Permissions at Object-Level: The gist of an envisioned solution for managing agricultural datasets
 
 _Diego Menéndez and Danying Shao_
+
+Oct 10, 11:00 AM - 2:00 PM (30 minute break)
 
 Web applications are increasingly adopted in the research community, e.g. for data collection,
 information dissemination and workflow management. Django is a Python-based open-sourced
@@ -66,12 +76,16 @@ the object level using the django-guardian package.
 Slides accompanying the code will illustrate the project under development with Use Cases
 as well as a conceptual class diagram and other artifacts.
 
+<a href="https://zoom.us/meeting/register/tJMtd--hqTooHtKXAz0AIVo6qx-3EJUwVeZZ#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
+
 ------
 
 <a name="tutorial-6"></a>
 ## Research Data Automation with Globus Flows and Globus Compute
 
 _Lee Liming and Steve Turoscy_
+
+Oct 11, 8:00 AM - 11:00 AM (30 minute break)
 
 This tutorial equips Research Software Engineers (RSEs) to automate research data processes
 using Globus Compute  and Globus Flows : two parts of the Globus Platform.
@@ -80,12 +94,16 @@ including campus, cloud, and national-scale systems. Globus Flows provides secur
 automation of complex workflows. Together, Globus Compute and Flows enable RSEs to
 construct data processing pipelines that are reliably managed and executed by Globus.
 
+<a href="https://zoom.us/meeting/register/tJMkfumgqjgtH9WoOoVRPLQZXrhI4AXqW6fN#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
+
 ------
 
 <a name="tutorial-2"></a>
 ## GitHub Actions for Scientific Data Workflows
 
 _Valentina Staneva_
+
+Oct 7, 3:00 PM - 6:00 PM (30 minute break)
 
 In this tutorial we will introduce Github Actions to scientific programmers as a tool for lightweight
 automation of scientific data workflows. We will demonstrate that GitHub Actions are not just a
@@ -96,12 +114,16 @@ to public data streams, updating visualizations based on new data, processing la
 model versioning, etc. The goal is that participants will leave with their own ideas of how to
 integrate Github Actions in their own work.
 
+<a href="https://zoom.us/meeting/register/tJEudO2tpjoqG9XF2XNXFKQ_HRXZZ8YDXh7I#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
+
 ------
 
 <a name="tutorial-3"></a>
 ## Overview of GIS Open Source Software Ecosystem and Theory
 
 _Dennis Milechin_
+
+Oct 8, 11:00 AM - 12:30 PM
 
 Researchers are finding spatial-analysis as a valuable tool to answer new research questions
 that were not considered before. This is made possible because many of the open source
@@ -113,3 +135,5 @@ in documentation and community forums. This terminology will refer to some funda
 aspects of GIS theory or components of GIS libraries/software that is common knowledge
 among the GIS community. This tutorial aims to provide a stepping stone to acquiring this
 fundamental GIS knowledge.
+
+<a href="https://zoom.us/meeting/register/tJIocumhrj8uGdzeUsarR1uTccELjtrXw09O#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
