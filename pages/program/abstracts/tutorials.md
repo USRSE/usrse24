@@ -76,6 +76,8 @@ the object level using the django-guardian package.
 Slides accompanying the code will illustrate the project under development with Use Cases
 as well as a conceptual class diagram and other artifacts.
 
+_For a hands-on experience, participants should have access to a terminal (readily available on GNU/Linux and macOS, WSL recommended, if on Windows) with Python and Git installed._
+
 <a href="https://zoom.us/meeting/register/tJMtd--hqTooHtKXAz0AIVo6qx-3EJUwVeZZ#/registration" target="_blank" class="btn btn-light btn-lg" role="button" alt="Button link to register for a tutorial">Register</a>
 
 ------
