@@ -73,7 +73,7 @@ ecosystem.
 <a name="bofs-4a"></a>
 ## Exploring the Potential Impact of Advancements in Artificial Intelligence on the RSE Profession
 
-_David Luet_
+_Sujay Suresh Kumar and David Luet_
 
 I am proposing an exploratory discussion on the many ways AI could impact the
 RSE profession. I have discussed this topic with many different RSEs and each
