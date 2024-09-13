@@ -1254,7 +1254,7 @@ tags will be replaced.-->
   <td height=26 class=xl696507 width=108 style='height:19.5pt;width:81pt'>8:00
   AM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Breakfast / Registration</td>
+  width:709pt'>Breakfast / Registration, Ballroom A</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl726507 width=108 style='height:20.0pt;border-top:none;
@@ -1338,7 +1338,7 @@ tags will be replaced.-->
   <td height=27 class=xl746507 width=108 style='height:20.0pt;width:81pt'>12:00
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Lunch</td>
+  width:709pt'>Lunch, Ballroom A</td>
  </tr>
  <tr height=67 style='mso-height-source:userset;height:50.0pt'>
   <td height=67 class=xl756507 width=108 style='height:50.0pt;width:81pt'>1:00
@@ -1402,7 +1402,7 @@ tags will be replaced.-->
   <td height=27 class=xl696507 width=108 style='height:20.0pt;width:81pt'>8:00
   AM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Breakfast</td>
+  width:709pt'>Breakfast, Ballroom A</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl686507 width=108 style='height:20.0pt;width:81pt'>9:00
@@ -1435,7 +1435,7 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>12:00
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Lunch, <a href="{{ site.baseurl }}/program/student-program/#mentor-lunch">Mentor/Mentee Lunch</a>, followed by <a href="{{ site.baseurl }}/program/student-program/#carc-visit">student visit to CARC</a></td>
+  width:709pt'>Lunch, Ballroom A, <a href="{{ site.baseurl }}/program/student-program/#mentor-lunch">Mentor/Mentee Lunch</a>, followed by <a href="{{ site.baseurl }}/program/student-program/#carc-visit">student visit to CARC</a></td>
  </tr>
  <tr height=44 style='mso-height-source:userset;height:33.0pt'>
   <td rowspan=2 height=254 class=xl736507 width=108 style='height:190.5pt;
@@ -1536,7 +1536,7 @@ tags will be replaced.-->
   <td height=27 class=xl686507 width=108 style='height:20.0pt;width:81pt'>8:00
   AM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Breakfast</td>
+  width:709pt'>Breakfast, Ballroom A</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl746507 width=108 style='height:20.0pt;width:81pt'>9:00
@@ -1584,7 +1584,7 @@ tags will be replaced.-->
   <td height=27 class=xl686507 width=108 style='height:20.0pt;width:81pt'>12:00
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Lunch</td>
+  width:709pt'>Lunch, Ballroom A</td>
  </tr>
  <tr height=24 style='mso-height-source:userset;height:18.0pt'>
   <td rowspan=2 height=152 class=xl736507 width=108 style='height:114.0pt;
