@@ -30,7 +30,7 @@ sustainability and reusability?
 
 We propose a Birds of a Feather session to discuss different approaches, projects, and
 initiatives that teach the principles and practice of research software engineering. We plan to
-start the session with four 7-minute presentations about teaching efforts in different settings
+start the session with three 7-minute presentations about teaching efforts in different settings
 followed by an audience discussion with planned breakout groups depending on the number of
 participants. The presentations are as follows:
 
@@ -38,8 +38,6 @@ participants. The presentations are as follows:
 Julia Damerow
 - “INnovative Training Enabled by a Research Software Engineering Community of Trainers
 (INTERSECT)” by Jeff Carver and Ian Cosden
-- “The Better Scientific Software (BSSw) Tutorial Series” by David E. Bernholdt and Anshu
-Dubey
 - “Incorporating research software engineering best practices into NSF CIREN
 cyberinfrastructure professional training” by Marisa Brazil and Gil Speyer
 To start off the discussion with the audience, we will create a poll and compile a list of
