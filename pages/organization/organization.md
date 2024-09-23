@@ -221,6 +221,7 @@ the Executive Director, and the Community Manager.
 - Norma Citlalcue Perez Rosas
 - Opeyemi Ajibuwa
 - Pete Peterson
+- Primus Chimdia Kabuo
 - Rosa Diaz
 - Rostacia Lewis
 - Sinclair Combs
