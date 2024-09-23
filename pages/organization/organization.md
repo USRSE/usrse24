@@ -206,8 +206,6 @@ the Executive Director, and the Community Manager.
 - Juan Jose Garcia Mesa
 - Julia Damerow
 - Kate Fernandez
-- Kate Rachwal
-- Kevin Murray
 - Kirk Bonney
 - Lance Parsons
 - Lezlie Espana
