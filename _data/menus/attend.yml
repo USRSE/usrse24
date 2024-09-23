@@ -1,5 +1,7 @@
 - label: Attend
   items:
+    - name: Museum
+      link: attend/museum/
     - name: Register
       link: attend/register/
     - name: Travel
