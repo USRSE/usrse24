@@ -1,9 +1,9 @@
 - label: Attend
   items:
-    - name: Museum
-      link: attend/museum/
     - name: Register
       link: attend/register/
+    - name: Museum
+      link: attend/museum/
     - name: Travel
       link: attend/travel/
     - name: COVID Policy
