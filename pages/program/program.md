@@ -1654,10 +1654,15 @@ tags will be replaced.-->
  </td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
-  <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>4:30
+  <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>6:00
   PM</td>
-  <td colspan=6 class=xl876507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Adjourn</td>
+  <td colspan=6 class=xl846507 width=944 style='border-right:.5pt solid white;
+  width:709pt'><font class="font116507">Event</font>: <font
+  class="font66507"><a href="{{ site.baseurl }}/attend/museum">Nuclear History Museum</a></font>
+    <ul>
+     <li> Transportation Provided for Conference Attendees</li>
+     <li> All RSEs in community welcome</li>
+    </ul>
+  </td>
  </tr>
- <td></td>
  
