@@ -56,18 +56,18 @@ set_last_modified: true
 ## Advisory Board
 
 Additional advisory for the conference is provided by the current members of
-the [US-RSE Steering Committee](https://us-rse.org/about/steering-committee/) and
-the Executive Director.
+the [US-RSE Steering Committee](https://us-rse.org/about/steering-committee/), 
+the Executive Director, and the Community Manager.
 
-- Nicole Brewer, Arizona State University
+- Sophia Anyatonwu, US Research Software Engineer Association
+- Keith Beattie, Lawrence Berkeley National Laboratory
 - Jeffrey C. Carver, University of Alabama
 - Ian Cosden, Princeton University
 - Julia Damerow, Arizona State University
 - Sandra Gesing, US Research Software Engineer Association
 - Rinku Gupta, Argonne National Laboratory
-- Christina Maimone, Northwestern University
+- Alex Koufos, Stanford University
 - Kenton McHenry, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
-
 
 ### Contact
 
