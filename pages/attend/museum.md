@@ -3,7 +3,7 @@ layout: page
 title: Nuclear History Museum Event
 description: 
 menubar: attend
-permalink: attend/museum
+permalink: attend/museum/
 set_last_modified: true
 ---
 
