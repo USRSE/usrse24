@@ -1190,7 +1190,8 @@ tags will be replaced.-->
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Student Program Infosession</font><font class="font86507">:
   &quot;<a href="{{ site.baseurl }}/program/student-program/#student-workshop">Managing Your Digital Presence as a Research Software Engineer</a>&quot;
-  - <a href="https://zoom.us/meeting/register/tJIof-2rqD0oHtJfCfZU80dkQvf5zFKmXNF8#/registration" target="_blank">Register Now</a></font></td>
+  - <a href="https://docs.google.com/presentation/d/1z2Fs4mgRiI5VqVmVsvfBJqTV0saAglWOXxza2eNS-SM/edit?usp=drive_link" target="_blank">Slides</a> and 
+  <a href="TODO" target="_blank">Recording</a></font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl1006507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
