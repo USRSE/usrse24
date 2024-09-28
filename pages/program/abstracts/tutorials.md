@@ -40,7 +40,7 @@ where allocations are available, etc.
 
 _Rajshree Deshmukh, Cody O'Donnell, Lavanya Ramakrishnan_
 
-Oct 7, 3:00 PM - 6:00 PM MT (30 minute break)
+Oct 9, 11:00 AM - 2:00 PM MT (30 minute break)
 
 This tutorial will be a hands-on introduction to web application development using STRUDEL, an open source project making it easier for RSEs and domain scientists to build usable user
 interfaces (UIs). Attendees will learn how to go from a UI need, to identifying a Task Flow
