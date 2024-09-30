@@ -1198,7 +1198,7 @@ tags will be replaced.-->
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl676507 width=108 style='height:20.0pt;width:81pt'>Oct
-  7, 11:00 AM - 2:00 PM</td>
+  7, 11:00 AM - 2:30 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
   &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-1">Globus Compute: Managed Compute Across the Computing Continuum</a>,&quot;
@@ -1206,7 +1206,7 @@ tags will be replaced.-->
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl706507 width=108 style='height:20.0pt;border-top:none;
-  width:81pt'>Oct 7, 3:00 PM - 6:00 PM</td>
+  width:81pt'>Oct 7, 3:00 PM - 6:30 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
   &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-2">GitHub Actions for Scientific Data Workflows</a>,&quot; Valentina Staneva,
@@ -1222,7 +1222,7 @@ tags will be replaced.-->
  </tr>
  <tr height=39 style='mso-height-source:userset;height:29.5pt'>
   <td height=39 class=xl716507 width=108 style='height:29.5pt;width:81pt'>Oct
-  9, 11:00 AM - 2:00 PM</td>
+  9, 11:00 AM - 2:30 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
   &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-4">Rapid Prototyping for a Usable React-based Web Application with
@@ -1231,7 +1231,7 @@ tags will be replaced.-->
  </tr>
  <tr height=41 style='mso-height-source:userset;height:30.5pt'>
   <td height=41 class=xl716507 width=108 style='height:30.5pt;width:81pt'>Oct
-  10, 11:00 AM - 2:00 PM</td>
+  10, 11:00 AM - 2:30 PM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial</font><font class="font86507">:
   &quot;<a href="{{ site.baseurl }}/program/tutorials/#tutorial-5">Leveraging Django Views and Permissions at Object-Level: The gist of an
@@ -1240,7 +1240,7 @@ tags will be replaced.-->
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl716507 width=108 style='height:20.0pt;width:81pt'>Oct
-  11, 8:00 AM - 11:00 AM</td>
+  11, 8:00 AM - 11:30 AM</td>
   <td colspan=6 class=xl966507 width=944 style='border-right:.5pt solid white;
   width:709pt'><font class="font96507">Tutorial: &quot;</font><font
   class="font86507"><a href="{{ site.baseurl }}/program/tutorials/#tutorial-1">Research Data Automation with Globus Flows and Globus
