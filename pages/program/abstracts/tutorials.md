@@ -16,7 +16,7 @@ conference.
 
 _Kyle Chard and Yadu Babuji_
 
-Oct 7, 11:00 AM - 2:00 PM MT (30 minute break)
+Oct 7, 11:00 AM - 2:30 PM MT (30 minute break)
 
 This tutorial will focus on teaching modern approaches for running code on diverse, remote
 computing resources. As hardware continues to become yet more diverse, it is increasingly
@@ -40,7 +40,7 @@ where allocations are available, etc.
 
 _Rajshree Deshmukh, Cody O'Donnell, Lavanya Ramakrishnan_
 
-Oct 7, 3:00 PM - 6:00 PM MT (30 minute break)
+Oct 9, 11:00 AM - 2:30 PM MT (30 minute break)
 
 This tutorial will be a hands-on introduction to web application development using STRUDEL, an open source project making it easier for RSEs and domain scientists to build usable user
 interfaces (UIs). Attendees will learn how to go from a UI need, to identifying a Task Flow
@@ -61,7 +61,7 @@ scientific projects and target a broad range of people involved in web applicati
 
 _Diego Menéndez and Danying Shao_
 
-Oct 10, 11:00 AM - 2:00 PM MT (30 minute break)
+Oct 10, 11:00 AM - 2:30 PM MT (30 minute break)
 
 Web applications are increasingly adopted in the research community, e.g. for data collection,
 information dissemination and workflow management. Django is a Python-based open-sourced
@@ -87,7 +87,7 @@ _For a hands-on experience, participants should have access to a terminal (readi
 
 _Lee Liming and Steve Turoscy_
 
-Oct 11, 8:00 AM - 11:00 AM MT (30 minute break)
+Oct 11, 8:00 AM - 11:30 AM MT (30 minute break)
 
 This tutorial equips Research Software Engineers (RSEs) to automate research data processes
 using Globus Compute  and Globus Flows : two parts of the Globus Platform.
@@ -105,7 +105,7 @@ construct data processing pipelines that are reliably managed and executed by Gl
 
 _Valentina Staneva_
 
-Oct 7, 3:00 PM - 6:00 PM MT (30 minute break)
+Oct 7, 3:00 PM - 6:30 PM MT (30 minute break)
 
 In this tutorial we will introduce Github Actions to scientific programmers as a tool for lightweight
 automation of scientific data workflows. We will demonstrate that GitHub Actions are not just a
