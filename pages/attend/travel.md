@@ -12,7 +12,7 @@ set_last_modified: true
 
 - **Dates**: October 15-17, 2024
 - **Location**: [Albuquerque Convention Center](https://albuquerquecc.com/), 401 2nd St NW, Albuquerque, NM 87102
-  - **Convention Center**: [Map](https://www.visitalbuquerque.org/meetings/convention-center/specs/), [Parking](https://albuquerquecc.com/parking/)
+  - **Convention Center**: [Map](https://albuquerquecc.com/wp-content/uploads/2022/09/DPS-ACC-J1.8-artworkEDIT_V3-3.pdf), [Parking](https://albuquerquecc.com/parking/)
 
 ## Travel Support Program
 
