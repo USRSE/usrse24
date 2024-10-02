@@ -31,5 +31,10 @@ Presenters will not be required to wear masks during their presentations.
 Anyone who is feeling ill is encouraged **NOT** to attend in person, even if you
 are already in Albuquerque.
 
+If you are in attendance and feel ill, COVID tests are available at the Registration
+Desk. If you test positive for COVID, we ask you to fill out our (anonymous)
+[COVID Communication Form](https://forms.gle/baiNNgSiUEcDmtVu5) to inform us. You
+are not required to identify yourself.
+
 To report a medical exception or for any other questions,
 please [email the organizers](mailto:usrse24-conference@us-rse.org).
