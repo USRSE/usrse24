@@ -1526,7 +1526,14 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;width:81pt'>6:00
   PM</td>
   <td colspan=6 class=xl906507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Conference Dinner / Award Ceremony, Ballroom A</td>
+  width:709pt'>Conference Dinner / Award Ceremony, Ballroom A
+    <ul>
+     <li> US-RSE Community Awards</li>
+     <li> Better Scientific Software 2024 Fellows and Honorable Mentions -
+     <a href="https://bssw.io/pages/bssw-fellowship-program" target="_blank">BSSw Fellowship Website</a></li>
+     <li> US-RSE'25 Announcement</li>
+    </ul>
+  </td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td colspan=7 height=27 class=xl916507 width=1052 style='border-bottom:.5pt solid #BFBFBF;
