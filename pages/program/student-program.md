@@ -14,6 +14,7 @@ set_last_modified: true
 Friday, September 27th, 12:00 to 1:00 PM
 
 Pre-conference workshop - [Register Here](https://zoom.us/meeting/register/tJIof-2rqD0oHtJfCfZU80dkQvf5zFKmXNF8)
+Archived [slides](https://docs.google.com/presentation/d/1z2Fs4mgRiI5VqVmVsvfBJqTV0saAglWOXxza2eNS-SM/edit?usp=drive_link) and [recording]()
 
 In today’s digital landscape, your online presence is more than just a reflection 
 of your professional identity - it’s a powerful tool that can propel your career forward. 
