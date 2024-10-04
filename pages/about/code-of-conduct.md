@@ -12,4 +12,4 @@ All conference participants are expected to abide by the
 during, and after the conference.  This includes evening events and continued
 interactions after the conference.
 
-Please report problems or concerns to contact@us-rse.org.
+Please report problems or concerns to coc@us-rse.org.
