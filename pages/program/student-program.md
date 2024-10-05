@@ -33,7 +33,7 @@ poster session.
 <a name="ice-cream"></a>
 ## Student Ice Cream Social
 
-Tuesday, October 15th, 6:00 to 8:00 PM 
+Tuesday, October 15th, 6:30 - 7:30 PM
  
 Wrap up the first conference day experience by joining us at 
 the end of the poster session. This is a great opportunity to meet 
