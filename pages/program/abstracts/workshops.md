@@ -44,6 +44,13 @@ feasibility and how to determine the best program models to pursue. We aim to fa
 discussions on different organizational approaches, sustainable funding and growth strategies,
 and the evolution towards robust group models.
 
+**Structure**
+
+- Assessing outstanding need – Talking, understanding, formalizing, synthesizing
+- RSE Business Models – Guest speaker lightning talks about their models viewed through 5 lenses
+- Interactive working group 1 – break out groups based on levels of maturity and organization type
+- Interactive working group 2 – new break out groups comprised of people from different organization types and levels of maturity
+
 ---
 
 <a name="workshop-3"></a>
