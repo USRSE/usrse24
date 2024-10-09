@@ -1704,7 +1704,7 @@ Chair: Jon Guyer
 <a name="session-5"></a>
 ## Session 5: RSE in Action!
 
-Chair: Abbey Roelefs
+Chair: Abbey Roelofs
 
 <div id="accordion">
 
