@@ -1283,7 +1283,7 @@ tags will be replaced.-->
   class="font116507">Session 1A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1a">RSE Pedagogy</a>, </font>Charles Ferenbaugh, <font
   class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'><font
-  class="font116507">Session 1B</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font class="font116507">Patrick Diehl,</font> <font
+  class="font116507">Session 1B</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font class="font76507">Patrick Diehl,</font> <font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 1C</font><font
