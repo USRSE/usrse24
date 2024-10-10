@@ -1260,8 +1260,7 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;border-top:none;
   width:81pt'>8:45 AM</td>
   <td colspan=6 class=xl1026507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Welcome (Lauren Milechin, Miranda Mundt, Ian Cosden, Sandra
-  Gesing)<font class="font76507">, </font><font class="font156507">Ballroom A</font></td>
+  width:709pt'>Welcome (Lauren Milechin, Miranda Mundt, Ian Cosden)<font class="font76507">, </font><font class="font156507">Ballroom A</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl726507 width=108 style='height:20.0pt;border-top:none;
@@ -1281,14 +1280,14 @@ tags will be replaced.-->
   <td rowspan=2 height=290 class=xl736507 width=108 style='height:217.5pt;
   width:81pt'>10:30 AM</td>
   <td colspan=2 class=xl786507 width=302 style='width:227pt'><font
-  class="font116507">Session 1A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1a">RSE Pedagogy</a>, </font><font
+  class="font116507">Session 1A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1a">RSE Pedagogy</a>, </font>Charles Ferenbaugh, <font
   class="font106507">Hopi/Tewa</font></td>
-  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'>Session 1B<font class="font56507">:
-  <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font
+  <td colspan=2 class=xl1066507 width=284 style='border-left:none;width:213pt'><font
+  class="font116507">Session 1B</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-1b">AI, ML, and Automation</a>, </font><font class="font76507">Patrick Diehl,</font> <font
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 1C</font><font
-  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-1c">Insights on Research Software Practices and Principles</a>, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-1c">Insights on Research Software Practices and Principles</a>, </font>Derek Wilke, <font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=253 style='mso-height-source:userset;height:189.5pt'>
@@ -1442,7 +1441,7 @@ tags will be replaced.-->
   border-top:none;width:81pt'>1:00 PM</td>
   <td colspan=2 class=xl786507 width=302 style='width:227pt'><font
   class="font116507">Session 2A</font><font class="font66507">: <a href="{{ site.baseurl }}/program/sessions/#session-2a">Software
-  Sustainability and Legacy Code</a>, </font><font class="font106507">Hopi/Tewa</font></td>
+  Sustainability and Legacy Code</a>, </font>Anderson Chauphan, <font class="font106507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=2 class=xl846507 width=284 style='width:213pt'><font
   class="font126507">Workshop 4</font><font class="font56507">:
   &quot;<a href="{{ site.baseurl }}/program/workshops/#workshop-4">Establishing RSE Programs - From early stage formalization to mature
@@ -1450,7 +1449,7 @@ tags will be replaced.-->
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 2B</font><font
-  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-2b">Unique Stories in Research Software Experience</a>, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-2b">Unique Stories in Research Software Experience</a>, </font>Joel Bretheim, <font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=210 style='mso-height-source:userset;height:157.5pt'>
@@ -1492,7 +1491,7 @@ tags will be replaced.-->
   width:81pt'>3:00 PM</td>
   <td colspan=2 rowspan=2 class=xl856507 width=302 style='width:227pt'><font
   class="font146507">Session 3</font><font class="font76507">: <a href="{{ site.baseurl }}/program/sessions/#session-3">WetWare:
-  Research Software in Chemical and Life Sciences</a>, </font><font
+  Research Software in Chemical and Life Sciences</a>, </font>Pengyin Shan, <font
   class="font156507">Hopi/Tewa</font></td>
   <td colspan=2 rowspan=3 class=xl806507 width=284 style='width:213pt'><font
   class="font146507">Workshop 4</font><font class="font76507">:
@@ -1570,7 +1569,7 @@ tags will be replaced.-->
   class="font136507">Hopi/Tewa</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 4</font><font
-  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-4">Case Studies in Research Software</a>, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-4">Case Studies in Research Software</a>, </font>Jon Guyer, <font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=197 style='mso-height-source:userset;height:148.0pt'>
@@ -1605,7 +1604,7 @@ tags will be replaced.-->
   Source Science</a>, </font><font class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 5</font><font
-  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-5">RSE in Action!</a>, </font><font class="font136507">Cochiti</font></td>
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-5">RSE in Action!</a>, </font>Abbey Roelofs, <font class="font136507">Cochiti</font></td>
  </tr>
  <tr height=128 style='mso-height-source:userset;height:96.0pt'>
   <td colspan=2 height=128 class=xl846507 width=358 style='border-right:.5pt solid white;
@@ -1639,7 +1638,7 @@ tags will be replaced.-->
   class="font136507">Taos</font></td>
   <td colspan=2 class=xl846507 width=358 style='border-right:.5pt solid white;
   border-left:none;width:269pt'><font class="font126507">Session 6</font><font
-  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-6">Reproducible Software Ecosystems</a>, </font><font
+  class="font56507">: <a href="{{ site.baseurl }}/program/sessions/#session-6">Reproducible Software Ecosystems</a>, </font>Opeyemi Ajibuwa, <font
   class="font136507">Cochiti</font></td>
  </tr>
  <tr height=235 style='mso-height-source:userset;height:176.0pt'>

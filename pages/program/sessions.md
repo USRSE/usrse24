@@ -11,6 +11,8 @@ set_last_modified: true
 <a name="session-1a"></a>
 ## Session 1A: RSE Pedagogy
 
+Chair: Charles Ferenbaugh
+
 <div id="accordion">
 
     <div class="card">
@@ -286,6 +288,8 @@ set_last_modified: true
 <a name="session-1b"></a>
 ## Session 1B: AI, ML, and Automation
 
+Chair: Patrick Diehl
+
 <div id="accordion">
     <div class="card">
         <div class="card-header" id="heading42">
@@ -451,6 +455,8 @@ set_last_modified: true
 
 <a name="session-1c"></a>
 ## Session 1C: Insights on Research Software Practices and Principles
+
+Chair: Derek Wilke
 
 <div id="accordion">
 
@@ -741,6 +747,8 @@ set_last_modified: true
 <a name="session-2a"></a>
 ## Session 2A: Software Sustainability and Legacy Code
 
+Chair: Anderson Chauphan
+
 <div id="accordion">
 
     <div class="card">
@@ -934,6 +942,8 @@ set_last_modified: true
 
 <a name="session-2b"></a>
 ## Session 2B: Unique Stories in Research Software Experience
+
+Chair: Joel Bretheim
 
 <div id="accordion">
 
@@ -1222,6 +1232,8 @@ set_last_modified: true
 <a name="session-3"></a>
 ## Session 3: WetWare: Research Software in Chemical and Life Sciences
 
+Chair: Pengyin Shan
+
 <div id="accordion">
 
     <div class="card">
@@ -1466,6 +1478,8 @@ set_last_modified: true
 <a name="session-4"></a>
 ## Session 4: Case Studies in Research Software
 
+Chair: Jon Guyer
+
 <div id="accordion">
 
     <div class="card">
@@ -1689,6 +1703,8 @@ set_last_modified: true
 
 <a name="session-5"></a>
 ## Session 5: RSE in Action!
+
+Chair: Abbey Roelofs
 
 <div id="accordion">
 
@@ -1925,6 +1941,8 @@ set_last_modified: true
 
 <a name="session-6"></a>
 ## Session 6: Reproducible Software Ecosystems
+
+Chair: Opeyemi Ajibuwa
 
 <div id="accordion">
 
