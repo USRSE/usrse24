@@ -1260,8 +1260,7 @@ tags will be replaced.-->
   <td height=27 class=xl726507 width=108 style='height:20.0pt;border-top:none;
   width:81pt'>8:45 AM</td>
   <td colspan=6 class=xl1026507 width=944 style='border-right:.5pt solid white;
-  width:709pt'>Welcome (Lauren Milechin, Miranda Mundt, Ian Cosden, Sandra
-  Gesing)<font class="font76507">, </font><font class="font156507">Ballroom A</font></td>
+  width:709pt'>Welcome (Lauren Milechin, Miranda Mundt, Ian Cosden)<font class="font76507">, </font><font class="font156507">Ballroom A</font></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.0pt'>
   <td height=27 class=xl726507 width=108 style='height:20.0pt;border-top:none;
