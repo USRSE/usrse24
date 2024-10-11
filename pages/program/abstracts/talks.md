@@ -1802,8 +1802,7 @@ set_last_modified: true
                     aria-expanded="false" aria-controls="collapse40">
                     "Building Bridges and Breaking Barriers: How Research Software Engineers and Software Engineering
                     Researchers Can Partner for Success", Reed Milewicz, Sam Grayson, Matt Armstrong, Jeffrey Carver,
-                    Daniel
-                    Katz, Darko Marinov
+                    Daniel S. Katz, Darko Marinov
                 </button>
             </h5>
         </div>
