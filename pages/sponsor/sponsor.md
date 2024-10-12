@@ -170,6 +170,19 @@ appreciate everyone's cooperation in maintaining a positive atmosphere.
    right to reject or cancel any sponsorship that violates EDI principles, contrary to
    the conference's mission to promote diversity and inclusion.
 
+## US-RSE Organizational Founding Members
+
+### Standard Level
+
+<div class="row justify-content-center">
+    {%- assign sorted = site.data.org-members | sort: "date_joined" -%}
+    {%- for item in sorted -%}
+    <div class="col-6 col-md-4 align-self-center p-1">
+        {% include org-member-card.html %}
+    </div>
+    {%- endfor -%}
+</div>
+
 ## Contact Information
 
 For any inquiries or questions about sponsorship opportunities, please get in touch with
