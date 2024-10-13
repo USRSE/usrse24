@@ -58,7 +58,7 @@ Chair: Charles Ferenbaugh
                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10"
                     aria-expanded="false" aria-controls="collapse10">
                     "Lessons Learned While Building an Effective and Equitable Internship Program", Ryan Nakashima,
-                    Jenny Nguyen - <i>Talk</i>
+                    Jenny Nguyen, Steven Yeu - <i>Talk</i>
                 </button>
             </h5>
         </div>
@@ -70,7 +70,7 @@ Chair: Charles Ferenbaugh
                     and exceeded its original goal of research software developer workforce training. Using modern
                     agile frameworks, a novel summer training program, and minimal resources, SDSC has supported
                     over 200 interns over the past four years who have learned about and supported research software
-                    development. Come hear the internship program founders, Ryan Nakashima and Jenny Nguyen, share
+                    development. Come hear the internship program founders, Ryan Nakashima, Jenny Nguyen, and Steven Yeu, share
                     both unsuccessful and successful strategies used to build the SDSC software development
                     internship program and connect with them for follow-up discussions.</p>
             </div>
